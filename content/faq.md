@@ -12,8 +12,6 @@ There are a variety of reasons.
 * I haven't had the time.
 * No one has noticed that there isn't one yet.
 
-
-
 ---
 
 > In case you haven't found the answer for your question please feel free to contact me, my customer support will be happy to help you.

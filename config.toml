@@ -12,7 +12,7 @@ paginate = 10
 
 [params]
     viewMorePostLink     = "/blog/"
-    author = "DevCows"
+    author = "TurtleTooth"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -27,9 +27,9 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "jcbullock@gmail.com"
 
-    about_us = "<p>TurtleTooth is the website of Jeremy Bullock, digital media teacher in Colorado Springs, CO.</p>"
+    about_us = "<p>TurtleTooth is the website of Jeremy Bullock, \ndigital media teacher in Colorado Springs, CO.</p>"
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
     date_format = "2006-01-02"
     logo = "img/logo.png"

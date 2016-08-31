@@ -1130,5 +1130,17 @@ $ vi themes/zafta/layouts/_default/single.html
 </description>
     </item>
     
+    <item>
+      <title>Other</title>
+      <link>http://turtletooth.com/stuff/other/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>http://turtletooth.com/stuff/other/</guid>
+      <description>&lt;p&gt;This is the new Page
+&lt;a href=&#34;bob.com&#34;&gt;new&lt;/a&gt;
+&lt;a href=&#34;http://turtletooth.com/photography/&#34;&gt;Neat&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

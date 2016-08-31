@@ -6,8 +6,18 @@
     <description>Recent content on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2016 16:21:16 -0600</lastBuildDate>
     <atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test now</title>
+      <link>http://turtletooth.com/stuff/test/</link>
+      <pubDate>Wed, 31 Aug 2016 16:21:16 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/stuff/test/</guid>
+      <description>&lt;p&gt;This is a test&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Migrate from Jekyll</title>
@@ -1741,6 +1751,18 @@ $ vi themes/zafta/layouts/_default/single.html
     </item>
     
     <item>
+      <title>Other</title>
+      <link>http://turtletooth.com/stuff/other/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>http://turtletooth.com/stuff/other/</guid>
+      <description>&lt;p&gt;This is the new Page
+&lt;a href=&#34;bob.com&#34;&gt;new&lt;/a&gt;
+&lt;a href=&#34;http://turtletooth.com/photography/&#34;&gt;Neat&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://turtletooth.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1762,6 +1784,34 @@ $ vi themes/zafta/layouts/_default/single.html
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turtletooth.com/faq/</guid>
+      <description>
+
+&lt;p&gt;This is the place where all of your frequently asked questions will be answered.&lt;/p&gt;
+
+&lt;h2 id=&#34;1-why-isn-t-there-an-faq&#34;&gt;1. WHY ISN&amp;rsquo;T THERE AN FAQ?&lt;/h2&gt;
+
+&lt;p&gt;There are a variety of reasons.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I don&amp;rsquo;t know what to put here yet.&lt;/li&gt;
+&lt;li&gt;I haven&amp;rsquo;t had the time.&lt;/li&gt;
+&lt;li&gt;No one has noticed that there isn&amp;rsquo;t one yet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In case you haven&amp;rsquo;t found the answer for your question please feel free to contact me, my customer support will be happy to help you.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://turtletooth.com/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turtletooth.com/photography/</guid>
       <description>
 
 &lt;p&gt;This is the place where all of your frequently asked questions will be answered.&lt;/p&gt;
