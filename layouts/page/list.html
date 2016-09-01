@@ -22,7 +22,7 @@
 
                     <div class="col-md-9" id="blog-listing-medium">
 
-                        {{ $paginator := .Paginate (where .Data.Pages "Type" "stuff") }}
+                        {{ $paginator := .Paginate (where .Data.Pages "Type" "page") }}
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
@@ -38,7 +38,7 @@
                                   </div>
                                 </div>
                                 <div class="col-md-8">
-                                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                                    <h2>Jim<a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="clearfix">
                                         <p class="author-category">
                                           {{ if isset .Params "author" }}
