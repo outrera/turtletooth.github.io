@@ -36,7 +36,7 @@ paginate = 10
     email = "jcbullock@gmail.com"
 
     about_us = "<p>TurtleTooth is the website of Jeremy Bullock, <br>Digital Media Teacher in Colorado Springs, CO.</p>"
-    copyright = "Copyright &copy 2015 - 2016, TurtleTooth Media; All Rights Reserved."
+    copyright = "Copyright &copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved."
     date_format = "2006-01-02"
     logo = "img/logo.png"
     address = """<p><strong>TurtleTooth</strong>

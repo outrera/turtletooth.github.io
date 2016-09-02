@@ -1,8 +1,8 @@
 +++
-title = "Photography"
+title = "Broadcast"
 +++
 
-6th Grade Photography at Eagleview
+Broadcast Journalism at Eagleview
 
 ## More to Come
 

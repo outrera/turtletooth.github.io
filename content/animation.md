@@ -1,8 +1,8 @@
 +++
-title = "Photography"
+title = "Animation"
 +++
 
-6th Grade Photography at Eagleview
+Computer Animation at Eagleview
 
 ## More to Come
 

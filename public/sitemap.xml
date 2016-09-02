@@ -3,7 +3,12 @@
   
   <url>
     <loc>http://turtletooth.com/</loc>
-    <lastmod>2016-08-31T16:21:16-06:00</lastmod>
+    <lastmod>2016-09-02T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://turtletooth.com/blog/2016/09/02/getting-started/</loc>
+    <lastmod>2016-09-02T13:50:46+02:00</lastmod>
   </url>
   
   <url>
@@ -12,33 +17,16 @@
   </url>
   
   <url>
-    <loc>http://turtletooth.com/blog/2015/10/10/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://turtletooth.com/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://turtletooth.com/blog/2015/09/17/go-and-hugo/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://turtletooth.com/blog/2015/08/03/more-on-hugo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://turtletooth.com/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://turtletooth.com/page/other/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://turtletooth.com/animation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://turtletooth.com/broadcast/</loc>
   </url>
   
   <url>
@@ -51,6 +39,18 @@
   
   <url>
     <loc>http://turtletooth.com/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>http://turtletooth.com/software/</loc>
+  </url>
+  
+  <url>
+    <loc>http://turtletooth.com/videogames/</loc>
+  </url>
+  
+  <url>
+    <loc>http://turtletooth.com/video/</loc>
   </url>
   
 </urlset>

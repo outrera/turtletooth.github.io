@@ -1,8 +1,8 @@
 +++
-title = "Photography"
+title = "Video Game Design"
 +++
 
-6th Grade Photography at Eagleview
+Video Game Design at Eagleview
 
 ## More to Come
 

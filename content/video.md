@@ -1,8 +1,8 @@
 +++
-title = "Photography"
+title = "Video Production"
 +++
 
-6th Grade Photography at Eagleview
+Video Production at Eagleview
 
 ## More to Come
 

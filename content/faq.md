@@ -14,4 +14,4 @@ There are a variety of reasons.
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact me, my customer support will be happy to help you.
+> In case you haven't found the answer for your question please feel free to [ contact me ]({{< ref "contact.md" >}}).

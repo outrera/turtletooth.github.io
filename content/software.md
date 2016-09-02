@@ -1,5 +1,5 @@
 +++
-title = "Photography"
+title = "Software"
 +++
 
 6th Grade Photography at Eagleview
@@ -8,9 +8,8 @@ title = "Photography"
 
 Please check back for:
 
-* Projects
-* Tutorials
-* Class Calendar
+* Software Used in Class
+* Software Developed by Me
 * More . . .
 
 ---
