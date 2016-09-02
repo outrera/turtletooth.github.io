@@ -29,11 +29,11 @@
     </item>
     
     <item>
-      <title>Go is for lovers</title>
-      <link>http://turtletooth.com/blog/2015/09/17/go-is-for-lovers/</link>
+      <title>Go and Hugo</title>
+      <link>http://turtletooth.com/blog/2015/09/17/go-and-hugo/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>http://turtletooth.com/blog/2015/09/17/go-is-for-lovers/</guid>
+      <guid>http://turtletooth.com/blog/2015/09/17/go-and-hugo/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
