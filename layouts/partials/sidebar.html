@@ -1,6 +1,6 @@
 {{ partial "widgets/search.html" . }}
 
-{{ if or (eq .Section "page") (and (.IsNode) (eq .Data.Plural "categories")) (eq .Title "Page") }}
+{{ if or (eq .Section "page") (and (.IsNode) (eq .Data.Plural "categories")) (eq .Title "Pages") }}
 
 {{ partial "widgets/categories.html" . }}
 
