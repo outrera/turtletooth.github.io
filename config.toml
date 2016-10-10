@@ -80,6 +80,11 @@ paginate = 10
     url = "https://eagleview.asd20.org/Pages/default.aspx"
     weight = 1
 
+[[params.broadcastlinks]]
+    name = "Talon Homepage"
+    url = "http://eagleviewmedia.org"
+    weight = 1
+
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true

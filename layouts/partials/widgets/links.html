@@ -14,6 +14,14 @@
                 <a href="{{ .url | absURL }}">{{ .name }}</a>
             </li>
             {{ end }}
+            
+            {{ if or (eq .Section "broadcast") (and (.IsNode) (eq .Title "Broadcast")) (eq .Title "Broadcast Journalism at Eagleview") }}
+            {{ range .Site.Params.broadcastlinks }}
+            <li>
+                <a href="{{ .url | absURL }}">{{ .name }}</a>
+            </li>
+            {{ end }}
+            {{ end }}
         </ul>
     </div>
 </div>

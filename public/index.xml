@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TurtleTooth</title>
-    <link>http://turtletooth.com/index.xml</link>
+    <link>http://turtletooth.com/</link>
     <description>Recent content on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Sun, 09 Oct 2016 22:42:58 -0600</lastBuildDate>
     <atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,10 +39,10 @@
     
     <item>
       <title>Broadcast Calendar</title>
-      <link>http://turtletooth.com/page/calendar/broadcast-calendar/</link>
+      <link>http://turtletooth.com/broadcast/broadcast-calendar/</link>
       <pubDate>Sun, 09 Oct 2016 22:13:26 -0600</pubDate>
       
-      <guid>http://turtletooth.com/page/calendar/broadcast-calendar/</guid>
+      <guid>http://turtletooth.com/broadcast/broadcast-calendar/</guid>
       <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?showTitle=0&amp;amp;height=600&amp;amp;wkst=1&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=qaiieonuaga7t5ehd2aa9kj688%40group.calendar.google.com&amp;amp;color=%232952A3&amp;amp;src=kjs3j7hdvtpnn90mslc776ppvo%40group.calendar.google.com&amp;amp;color=%232F6309&amp;amp;src=rhtg69d7ihrdh16mon78ocof54%40group.calendar.google.com&amp;amp;color=%23AB8B00&amp;amp;ctz=America%2FDenver&#34; style=&#34;border-width:0&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
@@ -141,7 +140,7 @@
       <guid>http://turtletooth.com/broadcast/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/page/calendar/broadcast-calendar/&#34;&gt;Broadcast Calendar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/broadcast/broadcast-calendar/&#34;&gt;Broadcast Calendar&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;more-to-come&#34;&gt;More to Come&lt;/h2&gt;
 
@@ -228,7 +227,8 @@
 &lt;h2 id=&#34;class-calendars&#34;&gt;Class Calendars&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://turtletooth.com/page/calendar/broadcast-calendar/&#34;&gt;Broadcast Calendar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;No page found with path or logical name &#34;page/calendar/broadcast-calendar.md&#34;.
+&#34;&gt;Broadcast Calendar&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://turtletooth.com/page/calendar/8th-animation-calendar/&#34;&gt;Animation Calendar&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://turtletooth.com/page/calendar/7th-calendar/&#34;&gt;7th Grade Calendar&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://turtletooth.com/page/calendar/6th-calendar/&#34;&gt;6th Grade Calendar&lt;/a&gt;&lt;/li&gt;

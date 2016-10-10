@@ -2,7 +2,7 @@
 title = "Broadcast Journalism at Eagleview"
 +++
 
-[Broadcast Calendar]({{< ref "page/calendar/broadcast-calendar.md" >}})
+[Broadcast Calendar]({{< ref "broadcast/broadcast-calendar.md" >}})
 
 ## More to Come
 
