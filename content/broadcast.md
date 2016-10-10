@@ -1,8 +1,8 @@
 +++
-title = "Broadcast"
+title = "Broadcast Journalism at Eagleview"
 +++
 
-Broadcast Journalism at Eagleview
+[Broadcast Calendar]({{< ref "page/calendar/broadcast-calendar.md" >}})
 
 ## More to Come
 

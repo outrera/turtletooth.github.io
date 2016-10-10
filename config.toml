@@ -56,19 +56,29 @@ paginate = 10
     weight = 1
 
 [[params.menu]]
-    name = "Blog"
-    url  = "/blog/"
+    name = "Quick Info"
+    url  = "/quick/"
     weight = 2
 
 [[params.menu]]
-    name = "FAQ"
-    url  = "/faq/"
+    name = "Blog"
+    url  = "/blog/"
     weight = 3
 
 [[params.menu]]
     name = "Contact"
     url  = "/contact/"
     weight = 4
+
+[[params.links]]
+    name = "Google Classroom"
+    url = "http://classroom.google.com"
+    weight = 0
+
+[[params.links]]
+    name = "Eagleview Homepage"
+    url = "https://eagleview.asd20.org/Pages/default.aspx"
+    weight = 1
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
