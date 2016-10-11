@@ -85,6 +85,11 @@ paginate = 10
     url = "http://eagleviewmedia.org"
     weight = 1
 
+[[params.photographylinks]]
+    name = "Pic Monkey"
+    url = "http://picmonkey.com"
+    weight = 1
+
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true

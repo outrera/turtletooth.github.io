@@ -15,8 +15,18 @@
             </li>
             {{ end }}
             
+            <!-- Broadcast Links -->
             {{ if or (eq .Section "broadcast") (and (.IsNode) (eq .Title "Broadcast")) (eq .Title "Broadcast Journalism at Eagleview") }}
             {{ range .Site.Params.broadcastlinks }}
+            <li>
+                <a href="{{ .url | absURL }}">{{ .name }}</a>
+            </li>
+            {{ end }}
+            {{ end }}
+
+            <!-- Photography Links -->
+            {{ if or (eq .Section "photography") (and (.IsNode) (eq .Title "Photography")) (eq .Title "Photography") }}
+            {{ range .Site.Params.photographylinks }}
             <li>
                 <a href="{{ .url | absURL }}">{{ .name }}</a>
             </li>

@@ -11,10 +11,10 @@ title = "Quick Info for Digital Media Classes"
 
 
 ## Class Calendars
-* [Broadcast Calendar]({{< ref "page/calendar/broadcast-calendar.md" >}})
-* [Animation Calendar]({{< ref "page/calendar/8th-animation-calendar.md" >}})
-* [7th Grade Calendar]({{< ref "page/calendar/7th-calendar.md" >}})
-* [6th Grade Calendar]({{< ref "page/calendar/6th-calendar.md" >}})
+* [Broadcast Calendar]({{< ref "calendar/broadcast.md" >}})
+* [8th Grade Animation Calendar]({{< ref "calendar/8th.md" >}})
+* [7th Grade Calendar]({{< ref "calendar/7th.md" >}})
+* [6th Grade Calendar]({{< ref "calendar/6th.md" >}})
 
 ---
 
