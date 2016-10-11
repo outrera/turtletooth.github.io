@@ -9,12 +9,7 @@
 
     <div class="panel-body">
         <ul class="nav nav-pills nav-stacked">
-            {{ range .Site.Params.links }}
-            <li>
-                <a href="{{ .url | absURL }}">{{ .name }}</a>
-            </li>
-            {{ end }}
-            
+                      
             <!-- Broadcast Links -->
             {{ if or (eq .Section "broadcast") (and (.IsNode) (eq .Title "Broadcast")) (eq .Title "Broadcast Journalism at Eagleview") }}
             {{ range .Site.Params.broadcastlinks }}
@@ -31,6 +26,12 @@
                 <a href="{{ .url | absURL }}">{{ .name }}</a>
             </li>
             {{ end }}
+            {{ end }}
+
+            {{ range .Site.Params.links }}
+            <li>
+                <a href="{{ .url | absURL }}">{{ .name }}</a>
+            </li>
             {{ end }}
         </ul>
     </div>

@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TurtleTooth</title>
-    <link>http://turtletooth.com/index.xml</link>
+    <link>http://turtletooth.com/</link>
     <description>Recent content on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Sun, 09 Oct 2016 22:42:58 -0600</lastBuildDate>
     <atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -95,16 +94,6 @@
     </item>
     
     <item>
-      <title>Other</title>
-      <link>http://turtletooth.com/page/other/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>http://turtletooth.com/page/other/</guid>
-      <description>&lt;p&gt;This is the first new page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Animation</title>
       <link>http://turtletooth.com/animation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,9 +101,19 @@
       <guid>http://turtletooth.com/animation/</guid>
       <description>
 
-&lt;p&gt;Computer Animation at Eagleview&lt;/p&gt;
+&lt;h3 id=&#34;computer-animation-at-eagleview&#34;&gt;Computer Animation at Eagleview&lt;/h3&gt;
 
-&lt;h2 id=&#34;more-to-come&#34;&gt;More to Come&lt;/h2&gt;
+&lt;p&gt;We offer animation for grades 6-8 here at Eagleview.  Students learn the principles of animation as they explore a variety of animation techniques and styles.  Students will create projects using:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Traditional 2D Animation&lt;/li&gt;
+&lt;li&gt;3D Animation&lt;/li&gt;
+&lt;li&gt;Stop Motion&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/8th/&#34;&gt;Animation Calendar&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please check back for:&lt;/p&gt;
 
@@ -141,17 +140,38 @@
       <guid>http://turtletooth.com/broadcast/</guid>
       <description>
 
-&lt;p&gt;The daily announcements can be seen at &lt;a href=&#34;http://eagleviewmedia.org&#34;&gt;EagleviewMedia.org&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;the-daily-announcements-can-be-seen-at-eagleviewmedia-org-http-eagleviewmedia-org&#34;&gt;The daily announcements can be seen at &lt;a href=&#34;http://eagleviewmedia.org&#34;&gt;EagleviewMedia.org&lt;/a&gt;.&lt;/h3&gt;
 
-&lt;p&gt;&lt;img class=&#34;pull-right&#34; src=&#34;../img/broadcast/studio1.jpg&#34; alt=&#34;Talon Studio&#34; width=&#34;300&#34; height=&#34;200&#34; /&gt;The Talon is the daily news broadcast of the students at Eagleview Middle School. It is a student run broadcast. Students perform all the duties from running the cameras and sound board to being anchors. Broadcasts are filmed during the morning and aired to the school in the afternoon.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;pull-left&#34; src=&#34;../img/broadcast/studio2.jpg&#34; alt=&#34;Talon Studio Behind the Scenes&#34; width=&#34;300&#34; height=&#34;200&#34; /&gt;
-Students are on a rotation through the news studio.  On days that they are not in the studio, students create feature stories showcasing the events and activities at Eagleview.  They may do a feature on clubs, sports, students, staff or any other noteworthy topic.  The class is designed to be fun yet practical.  Students serve the school and community by sharing information while at the same time getting hands on practice in a studio setting.  While we don&amp;#8217;t claim to be professionals, we do our best to provide a quality presentation each day.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;pull-right img-responsive&#34; src=&#34;../img/broadcast/studio1.jpg&#34; alt=&#34;Talon Studio&#34; style = &#34;padding: 10px;&#34;&gt;
+The Talon is the daily news broadcast of the students at Eagleview Middle School.
+It is a student run broadcast. Students perform all the duties from running the cameras and sound board to being anchors.&lt;/p&gt;
+
+&lt;p&gt;Broadcasts are filmed during the morning and aired to the school in the afternoon.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;pull-left img-responsive img-rounded&#34; src=&#34;../img/broadcast/studio2.jpg&#34; alt=&#34;Talon Studio Behind the Scenes&#34; style = &#34;padding: 10px;&#34;&gt;
+Students are on a rotation through the news studio.  On days that they are not in the studio, students create feature stories showcasing the events and activities at Eagleview.  They may do a feature on clubs, sports, students, staff or any other noteworthy topic.  The class is designed to be fun yet practical.  Students serve the school and community by sharing information while at the same time getting hands on practice in a studio setting.&lt;/p&gt;
+
+&lt;p&gt;While we don&amp;rsquo;t claim to be professionals, we do our best to provide a quality presentation each day.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
 &lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;No page found with path or logical name &#34;broadcast/broadcast-calendar.md&#34;.
-&#34;&gt;Broadcast Calendar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/broadcast/&#34;&gt;Broadcast Calendar&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -249,8 +269,6 @@ Students are on a rotation through the news studio.  On days that they are not i
       <guid>http://turtletooth.com/software/</guid>
       <description>
 
-&lt;p&gt;6th Grade Photography at Eagleview&lt;/p&gt;
-
 &lt;h2 id=&#34;more-to-come&#34;&gt;More to Come&lt;/h2&gt;
 
 &lt;p&gt;Please check back for:&lt;/p&gt;
@@ -278,6 +296,35 @@ Students are on a rotation through the news studio.  On days that they are not i
       <description>
 
 &lt;p&gt;Video Game Design at Eagleview&lt;/p&gt;
+
+&lt;h2 id=&#34;more-to-come&#34;&gt;More to Come&lt;/h2&gt;
+
+&lt;p&gt;Please check back for:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Projects&lt;/li&gt;
+&lt;li&gt;Tutorials&lt;/li&gt;
+&lt;li&gt;Class Calendar&lt;/li&gt;
+&lt;li&gt;More &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In case you haven&amp;rsquo;t found the answer for your question please feel free to &lt;a href=&#34;http://turtletooth.com/contact/&#34;&gt; contact me &lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Video Production</title>
+      <link>http://turtletooth.com/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turtletooth.com/video/</guid>
+      <description>
+
+&lt;p&gt;Video Production at Eagleview&lt;/p&gt;
 
 &lt;h2 id=&#34;more-to-come&#34;&gt;More to Come&lt;/h2&gt;
 

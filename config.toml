@@ -85,6 +85,11 @@ paginate = 10
     url = "http://eagleviewmedia.org"
     weight = 1
 
+[[params.broadcastlinks]]
+    name = "Broadcast Calendar"
+    url = "../calendar/broadcast"
+    weight = 2
+
 [[params.photographylinks]]
     name = "Pic Monkey"
     url = "http://picmonkey.com"

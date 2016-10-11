@@ -2,8 +2,6 @@
 title = "Software"
 +++
 
-6th Grade Photography at Eagleview
-
 ## More to Come
 
 Please check back for:
