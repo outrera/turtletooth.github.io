@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animations on TurtleTooth</title>
+    <link>http://turtletooth.com/animation/</link>
+    <description>Recent content in Animations on TurtleTooth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2016 16:07:52 -0600</lastBuildDate>
+    <atom:link href="http://turtletooth.com/animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anticipation</title>
+      <link>http://turtletooth.com/animation/anticipation/</link>
+      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/animation/anticipation/</guid>
+      <description>&lt;p&gt;Part 1&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/RBXd8xqTuhY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Part 2&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/xt2sCFiguz8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

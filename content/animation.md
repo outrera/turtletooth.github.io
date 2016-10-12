@@ -10,6 +10,9 @@ We offer animation for grades 6-8 here at Eagleview.  Students learn the princip
 * 3D Animation
 * Stop Motion
 
+### Projects
+[Anticipation]({{< ref "animation/anticipation.md" >}})
+
 
 ### Links
 [Animation Calendar]({{< ref "calendar/8th.md" >}})
