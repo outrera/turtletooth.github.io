@@ -8,6 +8,7 @@
             <div class="homepage owl-carousel">
                 {{ range .Site.Data.carousel }}
                 <div class="item">
+                    <a href=" {{ .link }} ">
                     <div class="row">
                         <div class="col-sm-5 right">
                             <h1>{{ .title }}</h1>
@@ -17,6 +18,7 @@
                             <img class="img-responsive" src="{{ .image }}" alt="">
                         </div>
                     </div>
+                    </a>
                 </div>
                 {{ end }}
             </div>
