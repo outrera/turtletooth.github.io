@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TurtleTooth</title>
-    <link>http://turtletooth.com/</link>
+    <link>http://turtletooth.com/index.xml</link>
     <description>Recent content on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Sun, 09 Oct 2016 22:42:58 -0600</lastBuildDate>
     <atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -262,22 +263,86 @@ Students are on a rotation through the news studio.  On days that they are not i
     </item>
     
     <item>
-      <title>Software</title>
+      <title>Software We Use</title>
       <link>http://turtletooth.com/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turtletooth.com/software/</guid>
-      <description>
+      <description>&lt;p&gt;We use a variety of software in the Digital Media department at Eagleview.&lt;br /&gt;
+Here is the software we use for each class.  If the software is freely available, a link is also provided.&lt;/p&gt;
 
-&lt;h2 id=&#34;more-to-come&#34;&gt;More to Come&lt;/h2&gt;
+&lt;p&gt;Whenever possible, I choose software that is free (and Open Source) for students to use at home.&lt;/p&gt;
 
-&lt;p&gt;Please check back for:&lt;/p&gt;
+&lt;p&gt;Photography:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Software Used in Class&lt;/li&gt;
-&lt;li&gt;Software Developed by Me&lt;/li&gt;
-&lt;li&gt;More &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Adobe Photoshop&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Film and Video:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adobe Premiere Pro&lt;/li&gt;
+&lt;li&gt;Adobe After Effects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2D Animation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/opentoonz/opentoonz/releases&#34;&gt;OpenToonz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stykz.net/&#34;&gt;Stykx Stick Figure Animation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Anime Studio Pro (Now called Moho)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://krita.org/en/&#34;&gt;Krita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;3D Animation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blender.org&#34;&gt;Blender&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Stop Motion Animation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/opentoonz/opentoonz/releases&#34;&gt;OpenToonz*&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DragonFrame&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Audio Editing:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.audacityteam.org/&#34;&gt;Audacity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Video Game Design&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://unity3d.com/&#34;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.yoyogames.com/gamemaker&#34;&gt;GameMaker: Studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lmms.io/&#34;&gt;LMMS - Music Creation Software&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Broadcast:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adobe Premiere Pro&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/turtletooth/turtletext&#34;&gt;TurtleText Teleprompter Software*&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other Useful Tools:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://getgreenshot.org/&#34;&gt;Greenshot ScreenShot Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://obsproject.com/&#34;&gt;Open Broadcast Software - Screen Recording&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com&#34;&gt;Visual Studio Code - Text Editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://inkscape.org/en/&#34;&gt;Inkscape - Vector Drawing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;*&lt;a href=&#34;https://github.com/turtletooth&#34;&gt;I am a developer of this software.&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
