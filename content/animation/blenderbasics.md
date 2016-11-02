@@ -7,19 +7,19 @@ categories = ["animation"]
 
 Part 1
 
-{{< youtube 6bYeGrYo88g >}}
+{{< youtube 6bYeGrYo88g rel=0 >}}
 
 
 Part 2
 
-{{< youtube ZS3Z1GBFiyA >}}
+{{< youtube ZS3Z1GBFiyA rel=0 >}}
 
 
 Part 3 
 
-{{< youtube wE_5l5wl658 >}}
+{{< youtube wE_5l5wl658 rel=0 >}}
 
 
 Part 4
 
-{{< youtube JvmGWOr_NLk >}}
+{{< youtube JvmGWOr_NLk rel=0 >}}
