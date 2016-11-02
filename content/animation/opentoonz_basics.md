@@ -7,10 +7,10 @@ categories = ["animation"]
 
 Part 1
 
-{{< youtube 6RCKlcncIw4 >}}
+<iframe width="853" height="480" src="https://www.youtube.com/embed/6RCKlcncIw4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 Part 2
 
-{{< youtube ciQaExIM_A0 >}}
+<iframe width="853" height="480" src="https://www.youtube.com/embed/ciQaExIM_A0?rel=0" frameborder="0" allowfullscreen></iframe>
 
