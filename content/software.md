@@ -18,7 +18,7 @@ Film and Video:
 
 2D Animation: 
 
-* [OpenToonz](https://github.com/opentoonz/opentoonz/releases)
+* [OpenToonz*](https://github.com/opentoonz/opentoonz/releases)
 * [Stykx Stick Figure Animation](http://www.stykz.net/)
 * Anime Studio Pro (Now called Moho)
 * [Krita](https://krita.org/en/)
@@ -53,6 +53,9 @@ Other Useful Tools:
 * [Open Broadcast Software - Screen Recording](https://obsproject.com/)
 * [Visual Studio Code - Text Editor](https://code.visualstudio.com)
 * [Inkscape - Vector Drawing](https://inkscape.org/en/)
+* [Gimp Photo Editing Software](http://gimp.org)
+* [MyPaint Painting Software](http://mypaint.org)
+* [Godot Video Game Engine](http://godotengine.org)
 
 &nbsp;
 

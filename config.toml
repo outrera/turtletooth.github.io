@@ -70,6 +70,36 @@ paginate = 10
     url  = "/contact/"
     weight = 4
 
+[[params.dropdown]]
+    name = "Broadcast"
+    url = "/broadcast/"
+    weight = 1
+
+[[params.dropdown]]
+    name = "8th Grade Animation"
+    url = "/animation/8th"
+    weight = 2
+
+[[params.dropdown]]
+    name = "8th Grade Video Game Design"
+    url = "/videogame/8th"
+    weight = 3
+
+[[params.dropdown]]
+    name = "7th Grade Video"
+    url = "/video/7th"
+    weight = 4
+
+[[params.dropdown]]
+    name = "6th Grade Photography"
+    url = "/photography/6th"
+    weight = 5
+
+[[params.dropdown]]
+    name = "6th Grade Animation"
+    url = "/animation/6th"
+    weight = 6
+
 [[params.links]]
     name = "Google Classroom"
     url = "http://classroom.google.com"

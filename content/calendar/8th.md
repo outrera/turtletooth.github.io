@@ -3,7 +3,7 @@ tags = [
 ]
 categories = ["calendars"]
 date = "2016-10-09T22:13:49-06:00"
-title = "8th Animation Calendar"
+title = "8th Grade Calendar"
 
 +++
 

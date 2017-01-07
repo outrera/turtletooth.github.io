@@ -1,5 +1,6 @@
 +++
 title = "Broadcast Journalism at Eagleview"
+categories = ["broadcast"]
 +++
 
 ### The daily announcements can be seen at [EagleviewMedia.org](http://eagleviewmedia.org).

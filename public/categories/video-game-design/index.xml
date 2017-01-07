@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TurtleTooth</title>
+    <link>http://turtletooth.com/categories/video-game-design/index.xml</link>
+    <description>Recent content on TurtleTooth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
+    <atom:link href="http://turtletooth.com/categories/video-game-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>8th Grade Video Game Design</title>
+      <link>http://turtletooth.com/videogame/8th/</link>
+      <pubDate>Wed, 12 Oct 2016 21:59:26 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/videogame/8th/</guid>
+      <description>&lt;p&gt;Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of games in both 2D and 3D.  We will use a variety of tools to create our games including industry standard software such as Maya and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

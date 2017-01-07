@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TurtleTooth</title>
-    <link>http://turtletooth.com/</link>
+    <link>http://turtletooth.com/index.xml</link>
     <description>Recent content on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Wed, 02 Nov 2016 16:07:52 -0600</lastBuildDate>
     <atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -91,6 +92,24 @@
       <pubDate>Wed, 12 Oct 2016 22:34:00 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/6th/</guid>
+      <description>
+
+&lt;p&gt;In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges. I am excited to see their work this semester as they grow as story tellers and animators.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/6th/&#34;&gt;Animation Calendar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/software/&#34;&gt;Animation Software&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>8th Grade Animation</title>
+      <link>http://turtletooth.com/animation/8th/</link>
+      <pubDate>Wed, 12 Oct 2016 22:34:00 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/animation/8th/</guid>
       <description>
 
 &lt;p&gt;In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges. I am excited to see their work this semester as they grow as story tellers and animators.&lt;/p&gt;
@@ -272,6 +291,16 @@ Students in this class will work with digital cameras, video cameras, Photoshop 
     </item>
     
     <item>
+      <title>8th Grade Video Game Design</title>
+      <link>http://turtletooth.com/videogame/8th/</link>
+      <pubDate>Wed, 12 Oct 2016 21:59:26 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/videogame/8th/</guid>
+      <description>&lt;p&gt;Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of games in both 2D and 3D.  We will use a variety of tools to create our games including industry standard software such as Maya and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>7th Grade Video</title>
       <link>http://turtletooth.com/video/7th/</link>
       <pubDate>Wed, 12 Oct 2016 21:58:04 -0600</pubDate>
@@ -388,34 +417,6 @@ Students will learn to take great photos in this class as they explore the diffe
   &lt;iframe src=&#34;//www.youtube.com/embed/JvmGWOr_NLk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 &lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Current Broadcast Assignments</title>
-      <link>http://turtletooth.com/broadcast/current-assignments/</link>
-      <pubDate>Sun, 09 Oct 2016 22:42:58 -0600</pubDate>
-      
-      <guid>http://turtletooth.com/broadcast/current-assignments/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Gabe, Alora, Jordan - Current News&lt;/li&gt;
-&lt;li&gt;Thejas, Cedric, Jade - Eagleview News&lt;/li&gt;
-&lt;li&gt;Hunter, Gavin, Avery - Library Feature&lt;/li&gt;
-&lt;li&gt;Brooke, Klia, John - Mini Stories&lt;/li&gt;
-&lt;li&gt;Tai, Rico, Dominic - Football&lt;/li&gt;
-&lt;li&gt;Nick, Cameron, Daniel - Fun Stories&lt;/li&gt;
-&lt;li&gt;Scarlet, Kobe - Sports Sign-Ups&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>8th Animation Calendar</title>
-      <link>http://turtletooth.com/calendar/8th/</link>
-      <pubDate>Sun, 09 Oct 2016 22:13:49 -0600</pubDate>
-      
-      <guid>http://turtletooth.com/calendar/8th/</guid>
-      <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?showTitle=0&amp;amp;showPrint=0&amp;amp;height=600&amp;amp;wkst=1&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=kpfav5gmq2486prvuniaume9ao%40group.calendar.google.com&amp;amp;color=%231B887A&amp;amp;ctz=America%2FDenver&#34; style=&#34;border-width:0&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
