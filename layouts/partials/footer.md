@@ -3,7 +3,7 @@
 
         {{ if isset .Site.Params "about_us" }}
         <div class="col-md-4 col-sm-6">
-            <h4>About us</h4>
+            <h4>About Me</h4>
 
             {{ .Site.Params.about_us | safeHTML }}
 

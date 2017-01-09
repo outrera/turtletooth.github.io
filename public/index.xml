@@ -7,8 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Nov 2016 16:07:52 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2017 21:49:02 -0700</lastBuildDate>
     <atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Year, New Content</title>
+      <link>http://turtletooth.com/blog/2017/01/07/new_year/</link>
+      <pubDate>Sat, 07 Jan 2017 21:49:02 -0700</pubDate>
+      
+      <guid>http://turtletooth.com/blog/2017/01/07/new_year/</guid>
+      <description>&lt;p&gt;With the start of a new semester and new year, I am again trying to update the site and make it easier to navigate for students and visitors.&lt;/p&gt;
+
+&lt;p&gt;Some new items are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dropdown at the top for each class&lt;/li&gt;
+&lt;li&gt;Each class has links at the top, followed by projects and a class overview&lt;/li&gt;
+&lt;li&gt;Small tweaks to the content for clarity and ease of use.&lt;/li&gt;
+&lt;li&gt;Updated graphics here and there&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The big task ahead of me is to incorporate my catalog of video tutorials into the site.  Where applicable I will be adding tutorials to the class projects section for each class but there will be a handful of tutorials that don&amp;rsquo;t necessarily relate to a class project that I think students will still be interested in.  I need to find a place to put those.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s going to be a good year.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OpenToonz - Squash and Stretch</title>
@@ -94,13 +117,21 @@
       <guid>http://turtletooth.com/animation/6th/</guid>
       <description>
 
-&lt;p&gt;In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges. I am excited to see their work this semester as they grow as story tellers and animators.&lt;/p&gt;
-
-&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/6th/&#34;&gt;Animation Calendar&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://turtletooth.com/software/&#34;&gt;Animation Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
+
+&lt;p&gt;In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges. I am excited to see their work this semester as they grow as story tellers and animators.&lt;/p&gt;
 </description>
     </item>
     
@@ -112,13 +143,21 @@
       <guid>http://turtletooth.com/animation/8th/</guid>
       <description>
 
-&lt;p&gt;In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges. I am excited to see their work this semester as they grow as story tellers and animators.&lt;/p&gt;
-
-&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/6th/&#34;&gt;Animation Calendar&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://turtletooth.com/software/&#34;&gt;Animation Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;p&gt;Coming Soon&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
+
+&lt;p&gt;In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges. I am excited to see their work this semester as they grow as story tellers and animators.&lt;/p&gt;
 </description>
     </item>
     
@@ -296,7 +335,31 @@ Students in this class will work with digital cameras, video cameras, Photoshop 
       <pubDate>Wed, 12 Oct 2016 21:59:26 -0600</pubDate>
       
       <guid>http://turtletooth.com/videogame/8th/</guid>
-      <description>&lt;p&gt;Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of games in both 2D and 3D.  We will use a variety of tools to create our games including industry standard software such as Maya and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;quick-links&#34;&gt;Quick Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/8th/&#34;&gt;Class Calendar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/0B0BVrD_GtJgxSzlFa29mSUhKbDQ/view?usp=sharing&#34;&gt;Class Form&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gamestarmechanic.com/&#34;&gt;Gamestar Mechanic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://unity3d.com/&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.yoyogames.com/gamemaker&#34;&gt;GameMaker Studio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.piskelapp.com/&#34;&gt;Piskel Pixel Art Editor&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;p&gt;Coming Soon&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
+
+&lt;p&gt;Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of games in both 2D and 3D.  We will use a variety of tools to create our games including industry standard software such as Maya and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.&lt;/p&gt;
 </description>
     </item>
     
@@ -306,7 +369,23 @@ Students in this class will work with digital cameras, video cameras, Photoshop 
       <pubDate>Wed, 12 Oct 2016 21:58:04 -0600</pubDate>
       
       <guid>http://turtletooth.com/video/7th/</guid>
-      <description>&lt;p&gt;Digital Photography and Video Production
+      <description>
+
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/7th/&#34;&gt;Class Calendar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/software/&#34;&gt;Class Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;p&gt;Coming Soon&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
+
+&lt;p&gt;Digital Photography and Video Production
 In this class students will focus on creating a variety of videos, and learn the various elements video editing.  Along the way, students will learn the importance of storyboarding, shot planning and camera use.  Students will create a white-board stop motion project and also use the news studio to create a newscast.  We will also be doing a couple of photography projects and learn to use Photoshop for video editing.  Students will receive prints of their photos and a DVDs of their videos.&lt;/p&gt;
 </description>
     </item>
@@ -317,7 +396,23 @@ In this class students will focus on creating a variety of videos, and learn the
       <pubDate>Wed, 12 Oct 2016 21:57:03 -0600</pubDate>
       
       <guid>http://turtletooth.com/photography/6th/</guid>
-      <description>&lt;p&gt;Intro to Digital Photography
+      <description>
+
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/6th/&#34;&gt;Class Calendar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/software/&#34;&gt;Class Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
+
+&lt;p&gt;Intro to Digital Photography
 Students will learn to take great photos in this class as they explore the different types of photography and learn how to better use cameras.  The class will help students understand the concepts of exposure, composition, and subject choice.  Photo editing will also be covered as students learn to use Photoshop through a variety of creative projects.  Students will also use photography as a gateway to understanding video as they create a stop-motion movie.  Students will receive prints of their photos and a DVD of their stop-motion.&lt;/p&gt;
 </description>
     </item>
@@ -375,46 +470,6 @@ Students will learn to take great photos in this class as they explore the diffe
 &lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/xt2sCFiguz8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blender Basics</title>
-      <link>http://turtletooth.com/animation/blenderbasics/</link>
-      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
-      
-      <guid>http://turtletooth.com/animation/blenderbasics/</guid>
-      <description>&lt;p&gt;Part 1&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/6bYeGrYo88g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Part 2&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/ZS3Z1GBFiyA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Part 3&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/wE_5l5wl658&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Part 4&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/JvmGWOr_NLk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 &lt;/p&gt;
 </description>

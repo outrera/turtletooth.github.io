@@ -7,5 +7,18 @@ title = "7th Grade Video"
 
 +++
 
+## Links
+[Class Calendar]({{< ref "calendar/7th.md" >}})
+
+[Class Software]({{< ref "software.md" >}})
+
+## Projects 
+
+Coming Soon
+
+&nbsp;
+
+## About the Class
+
 Digital Photography and Video Production
 In this class students will focus on creating a variety of videos, and learn the various elements video editing.  Along the way, students will learn the importance of storyboarding, shot planning and camera use.  Students will create a white-board stop motion project and also use the news studio to create a newscast.  We will also be doing a couple of photography projects and learn to use Photoshop for video editing.  Students will receive prints of their photos and a DVDs of their videos.

@@ -7,8 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Sep 2016 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2017 21:49:02 -0700</lastBuildDate>
     <atom:link href="http://turtletooth.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Year, New Content</title>
+      <link>http://turtletooth.com/blog/2017/01/07/new_year/</link>
+      <pubDate>Sat, 07 Jan 2017 21:49:02 -0700</pubDate>
+      
+      <guid>http://turtletooth.com/blog/2017/01/07/new_year/</guid>
+      <description>&lt;p&gt;With the start of a new semester and new year, I am again trying to update the site and make it easier to navigate for students and visitors.&lt;/p&gt;
+
+&lt;p&gt;Some new items are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dropdown at the top for each class&lt;/li&gt;
+&lt;li&gt;Each class has links at the top, followed by projects and a class overview&lt;/li&gt;
+&lt;li&gt;Small tweaks to the content for clarity and ease of use.&lt;/li&gt;
+&lt;li&gt;Updated graphics here and there&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The big task ahead of me is to incorporate my catalog of video tutorials into the site.  Where applicable I will be adding tutorials to the class projects section for each class but there will be a handful of tutorials that don&amp;rsquo;t necessarily relate to a class project that I think students will still be interested in.  I need to find a place to put those.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s going to be a good year.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Getting Started</title>
