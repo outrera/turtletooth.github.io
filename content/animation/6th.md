@@ -15,7 +15,7 @@ title = "6th Grade Animation"
 
 ## Projects
 
-Coming soon. . .
+[Stykz Escape]({{< ref "animation/stykz.md" >}})
 
 &nbsp;
 
