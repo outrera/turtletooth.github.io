@@ -2,13 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TurtleTooth</title>
-    <link>http://turtletooth.com/index.xml</link>
+    <link>http://turtletooth.com/</link>
     <description>Recent content on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 07 Jan 2017 21:49:02 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2017 13:22:32 -0700</lastBuildDate>
     <atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stykz Tutorials</title>
+      <link>http://turtletooth.com/animation/stykz/</link>
+      <pubDate>Wed, 11 Jan 2017 13:22:32 -0700</pubDate>
+      
+      <guid>http://turtletooth.com/animation/stykz/</guid>
+      <description>&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/6oJ5NinCr9M?list=PLTZoMpB5Z4aAfhWebcjBGSV0gVrfM-yQW&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>New Year, New Content</title>
@@ -448,30 +457,6 @@ Students will learn to take great photos in this class as they explore the diffe
 &lt;p&gt;&lt;a href=&#34;http://webcontent.asd20.org/media/1006/AM_95_1024.psd&#34;&gt;More Nike2 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://webcontent.asd20.org/media/1006/DUNK_LO_TEMPLATE_WEB_new.psd&#34;&gt;More Nike3&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Anticipation</title>
-      <link>http://turtletooth.com/animation/anticipation/</link>
-      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
-      
-      <guid>http://turtletooth.com/animation/anticipation/</guid>
-      <description>&lt;p&gt;Part 1&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/RBXd8xqTuhY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Part 2&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/xt2sCFiguz8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
 </description>
     </item>
     
