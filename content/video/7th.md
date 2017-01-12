@@ -14,9 +14,9 @@ title = "7th Grade Video"
 
 ## Projects 
 
-Coming Soon
+[Premiere Pro Basics]({{< ref "video/premiere.md" >}})
 
-&nbsp;
+[Camera Shots]({{< ref "video/camerashots.md" >}})
 
 ## About the Class
 

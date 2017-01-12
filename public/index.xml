@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TurtleTooth</title>
-    <link>http://turtletooth.com/index.xml</link>
+    <link>http://turtletooth.com/</link>
     <description>Recent content on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Wed, 11 Jan 2017 13:22:32 -0700</lastBuildDate>
     <atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,9 +15,10 @@
       <pubDate>Wed, 11 Jan 2017 13:22:32 -0700</pubDate>
       
       <guid>http://turtletooth.com/animation/stykz/</guid>
-      <description>&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/6oJ5NinCr9M?list=PLTZoMpB5Z4aAfhWebcjBGSV0gVrfM-yQW&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+&lt;iframe src=&#34;https://www.youtube.com/embed/6oJ5NinCr9M?list=PLTZoMpB5Z4aAfhWebcjBGSV0gVrfM-yQW&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://stykz.net&#34;&gt;Download Stykz at Home&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -393,9 +393,9 @@ Students in this class will work with digital cameras, video cameras, Photoshop 
 
 &lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
 
-&lt;p&gt;Coming Soon&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/video/premiere/&#34;&gt;Premiere Pro Basics&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/video/camerashots/&#34;&gt;Camera Shots&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
 
