@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Animations on TurtleTooth</title>
-    <link>http://turtletooth.com/animation/</link>
-    <description>Recent content in Animations on TurtleTooth</description>
+    <title>Animation-rsses on TurtleTooth</title>
+    <link>http://turtletooth.com/animation/index.xml</link>
+    <description>Recent content in Animation-rsses on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Wed, 11 Jan 2017 13:22:32 -0700</lastBuildDate>
     <atom:link href="http://turtletooth.com/animation/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,6 +17,10 @@
       
       <guid>http://turtletooth.com/animation/stykz/</guid>
       <description>&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/6oJ5NinCr9M?list=PLTZoMpB5Z4aAfhWebcjBGSV0gVrfM-yQW&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://stykz.net&#34;&gt;Download Stykz at Home&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
