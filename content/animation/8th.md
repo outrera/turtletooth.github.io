@@ -9,7 +9,7 @@ title = "8th Grade Animation"
 
 ## Links
 
-[Animation Calendar]({{< ref "calendar/6th.md" >}})
+[Animation Calendar]({{< ref "calendar/8th.md" >}})
 
 [Animation Software]({{< ref "software.md" >}})
 
