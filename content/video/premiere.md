@@ -2,7 +2,7 @@
 tags = [
 ]
 categories = ["video"]
-date = "2017-1-12T21:58:04-06:00"
+date = "2017-01-12T21:58:04-06:00"
 title = "Premiere Pro Basics"
 
 +++
