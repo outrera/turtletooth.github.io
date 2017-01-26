@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Game on TurtleTooth</title>
+    <link>http://turtletooth.com/categories/video-game/</link>
+    <description>Recent content in Video Game on TurtleTooth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jan 2017 21:58:04 -0600</lastBuildDate>
+    <atom:link href="http://turtletooth.com/categories/video-game/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GameMaker Studio Breakout Game</title>
+      <link>http://turtletooth.com/videogame/breakout/</link>
+      <pubDate>Thu, 26 Jan 2017 21:58:04 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/videogame/breakout/</guid>
+      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+&lt;iframe src=&#34;&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PLTZoMpB5Z4aB1qOiOp02KxHxX9NlJqS52&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
