@@ -23,7 +23,7 @@ title = "8th Grade Video Game Design"
 
 ## Projects
 
-Coming Soon
+[Breakout]({{< ref "videogame/breakout.md" >}})
 
 &nbsp;
 
