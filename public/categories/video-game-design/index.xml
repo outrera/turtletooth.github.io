@@ -6,8 +6,32 @@
     <description>Recent content in Video Game Design on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Oct 2016 21:59:26 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 04 Feb 2017 21:58:04 -0600</lastBuildDate>
     <atom:link href="http://turtletooth.com/categories/video-game-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GameMaker Studio Top Down Game</title>
+      <link>http://turtletooth.com/videogame/topdown/</link>
+      <pubDate>Sat, 04 Feb 2017 21:58:04 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/videogame/topdown/</guid>
+      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PLTZoMpB5Z4aAERX0HXUYhBu3UMUyQkKPp&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GameMaker Studio Breakout Game</title>
+      <link>http://turtletooth.com/videogame/breakout/</link>
+      <pubDate>Thu, 26 Jan 2017 21:58:04 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/videogame/breakout/</guid>
+      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PLTZoMpB5Z4aB1qOiOp02KxHxX9NlJqS52&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>8th Grade Video Game Design</title>

@@ -1,7 +1,7 @@
 +++
 tags = [
 ]
-categories = ["video game"]
+categories = ["video Game Design"]
 date = "2017-01-26T21:58:04-06:00"
 title = "GameMaker Studio Breakout Game"
 
