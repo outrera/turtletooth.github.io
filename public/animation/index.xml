@@ -219,5 +219,17 @@
 </description>
     </item>
     
+    <item>
+      <title>Blender Exploding Text</title>
+      <link>http://turtletooth.com/animation/blendertext/</link>
+      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/animation/blendertext/</guid>
+      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PLTZoMpB5Z4aDZfkNbaGBsJzC18Q-m-B2w&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
