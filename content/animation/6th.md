@@ -17,6 +17,10 @@ title = "6th Grade Animation"
 
 [Stykz Escape]({{< ref "animation/stykz.md" >}})
 
+[Blender Basics]({{< ref "animation/blenderbasics.md" >}})
+
+[Blender Exploding Text]({{< ref "animation/blendertext.md" >}})
+
 &nbsp;
 
 ## About the Class
