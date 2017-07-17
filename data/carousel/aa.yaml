@@ -2,9 +2,9 @@ weight: 3
 title: "Summer Video Game Design"
 description: >
   <ul class="list-style-none">
-    <li>Finish Gamestar Mechanic Quest.</li>
-    <li>Start creating your own game.</li>
-    <li>Use elements of game design.</li>
+    <li>GameStar Mechanic</li>
+    <li>Blender 3D</li>
+    <li>Unity 3D</li>
   </ul>
 image: "img/carousel/summer2017.png"
 link: "videogame/summer2017"

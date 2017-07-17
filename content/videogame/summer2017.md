@@ -19,12 +19,11 @@ title = "Summer Video Game Design"
 
 ## Projects
 
-[Breakout]({{< ref "videogame/breakout.md" >}})
+[Unity Bowling](https://www.youtube.com/playlist?list=PLTZoMpB5Z4aDjQ-ltxXn54Fww2SKO1t4F)
 
-[Top Down Game]({{< ref "videogame/topdown.md" >}})
 
 &nbsp;
 
 ## About the Class
 
-Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of games in both 2D and 3D.  We will use a variety of tools to create our games including industry standard software such as Maya and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.  
+Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of 3D games.  We will use a variety of tools to create our games including powerful 3D tools Blender and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.  
