@@ -2,12 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TurtleTooth</title>
-    <link>http://turtletooth.com/</link>
+    <link>http://turtletooth.com/index.xml</link>
     <description>Recent content on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2017 21:58:04 -0600</lastBuildDate>
+    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 16 Jul 2017 21:59:26 -0600</lastBuildDate>
     <atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Summer Video Game Design</title>
+      <link>http://turtletooth.com/videogame/summer2017/</link>
+      <pubDate>Sun, 16 Jul 2017 21:59:26 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/videogame/summer2017/</guid>
+      <description>
+
+&lt;h2 id=&#34;quick-links&#34;&gt;Quick Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gamestarmechanic.com/&#34;&gt;Gamestar Mechanic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://unity3d.com/&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.blender.org/&#34;&gt;Blender 3D&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/turtletooth/unityscripts&#34;&gt;Unity Scripts&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/videogame/breakout/&#34;&gt;Breakout&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/videogame/topdown/&#34;&gt;Top Down Game&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
+
+&lt;p&gt;Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of games in both 2D and 3D.  We will use a variety of tools to create our games including industry standard software such as Maya and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>GameMaker Studio Top Down Game</title>
@@ -419,33 +452,6 @@ Students in this class will work with digital cameras, video cameras, Photoshop 
 &lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
 
 &lt;p&gt;Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of games in both 2D and 3D.  We will use a variety of tools to create our games including industry standard software such as Maya and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>7th Grade Video</title>
-      <link>http://turtletooth.com/video/7th/</link>
-      <pubDate>Wed, 12 Oct 2016 21:58:04 -0600</pubDate>
-      
-      <guid>http://turtletooth.com/video/7th/</guid>
-      <description>
-
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/7th/&#34;&gt;Class Calendar&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/software/&#34;&gt;Class Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/video/premiere/&#34;&gt;Premiere Pro Basics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/video/camerashots/&#34;&gt;Camera Shots&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
-
-&lt;p&gt;Digital Photography and Video Production
-In this class students will focus on creating a variety of videos, and learn the various elements video editing.  Along the way, students will learn the importance of storyboarding, shot planning and camera use.  Students will create a white-board stop motion project and also use the news studio to create a newscast.  We will also be doing a couple of photography projects and learn to use Photoshop for video editing.  Students will receive prints of their photos and a DVDs of their videos.&lt;/p&gt;
 </description>
     </item>
     

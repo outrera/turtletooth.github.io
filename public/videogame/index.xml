@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videogames on TurtleTooth</title>
-    <link>http://turtletooth.com/videogame/</link>
-    <description>Recent content in Videogames on TurtleTooth</description>
+    <title>Videogame-rsses on TurtleTooth</title>
+    <link>http://turtletooth.com/videogame/index.xml</link>
+    <description>Recent content in Videogame-rsses on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2017 21:58:04 -0600</lastBuildDate>
+    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 16 Jul 2017 21:59:26 -0600</lastBuildDate>
     <atom:link href="http://turtletooth.com/videogame/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Summer Video Game Design</title>
+      <link>http://turtletooth.com/videogame/summer2017/</link>
+      <pubDate>Sun, 16 Jul 2017 21:59:26 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/videogame/summer2017/</guid>
+      <description>
+
+&lt;h2 id=&#34;quick-links&#34;&gt;Quick Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gamestarmechanic.com/&#34;&gt;Gamestar Mechanic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://unity3d.com/&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.blender.org/&#34;&gt;Blender 3D&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/turtletooth/unityscripts&#34;&gt;Unity Scripts&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/videogame/breakout/&#34;&gt;Breakout&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/videogame/topdown/&#34;&gt;Top Down Game&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
+
+&lt;p&gt;Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of games in both 2D and 3D.  We will use a variety of tools to create our games including industry standard software such as Maya and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>GameMaker Studio Top Down Game</title>
