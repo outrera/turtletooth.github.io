@@ -23,6 +23,10 @@ title = "Summer Video Game Design"
 
 [Roll A Ball](https://www.youtube.com/watch?v=RFlh8pTf4DU&list=PLX2vGYjWbI0Q-s4_lX0h4i2zbZqlg4OfF)
 
+[Turbo Roll A Ball](https://www.youtube.com/watch?v=qCwdQGcNEU4)
+
+[Blender Basics](https://www.youtube.com/playlist?list=PLTZoMpB5Z4aBBIfh-Y5iDPFtLwdBq0smw)
+
 
 &nbsp;
 
