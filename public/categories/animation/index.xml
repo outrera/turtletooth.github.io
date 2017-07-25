@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TurtleTooth</title>
-    <link>http://turtletooth.com/categories/animation/index.xml</link>
-    <description>Recent content on TurtleTooth</description>
+    <title>Animation on TurtleTooth</title>
+    <link>http://turtletooth.com/categories/animation/</link>
+    <description>Recent content in Animation on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
-    <atom:link href="http://turtletooth.com/categories/animation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2017 13:22:32 -0700</lastBuildDate>
+    
+	<atom:link href="http://turtletooth.com/categories/animation/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Stykz Tutorials</title>
@@ -15,13 +18,8 @@
       <pubDate>Wed, 11 Jan 2017 13:22:32 -0700</pubDate>
       
       <guid>http://turtletooth.com/animation/stykz/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-&lt;iframe src=&#34;https://www.youtube.com/embed/6oJ5NinCr9M?list=PLTZoMpB5Z4aAfhWebcjBGSV0gVrfM-yQW&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://stykz.net&#34;&gt;Download Stykz at Home&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>&amp;nbsp;
+Download Stykz at Home</description>
     </item>
     
     <item>
@@ -30,10 +28,8 @@
       <pubDate>Wed, 02 Nov 2016 16:07:52 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/opentoonz_squash/</guid>
-      <description>&lt;p&gt;Video Tutorial&lt;/p&gt;
-
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/Q_HMCx3ClJ8?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
+      <description>Video Tutorial
+ </description>
     </item>
     
     <item>
@@ -42,17 +38,9 @@
       <pubDate>Wed, 02 Nov 2016 16:07:52 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/opentoonz_basics/</guid>
-      <description>&lt;p&gt;Part 1&lt;/p&gt;
-
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/6RCKlcncIw4?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Part 2&lt;/p&gt;
-
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/ciQaExIM_A0?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Exporting
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/bJij9cl2GIk?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Part 1
+ Part 2
+ Exporting</description>
     </item>
     
     <item>
@@ -61,46 +49,12 @@
       <pubDate>Mon, 17 Oct 2016 16:07:52 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/blendercharacter/</guid>
-      <description>&lt;p&gt;Part 1&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/Oy34ZPJyThY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Part 2&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/yPy30L_8mgs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Part 3&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/C4i54PwukJA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Part 4&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/S21LauNqqY4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Part 5&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/qbchWNdqUjY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>Part 1
+  Part 2
+   Part 3
+   Part 4
+   Part 5
+   </description>
     </item>
     
     <item>
@@ -109,28 +63,13 @@
       <pubDate>Wed, 12 Oct 2016 22:34:00 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/6th/</guid>
-      <description>
-
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/6th/&#34;&gt;Animation Calendar&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/software/&#34;&gt;Animation Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/animation/stykz/&#34;&gt;Stykz Escape&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/animation/blenderbasics/&#34;&gt;Blender Basics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/animation/blendertext/&#34;&gt;Blender Exploding Text&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
-
-&lt;p&gt;In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges. I am excited to see their work this semester as they grow as story tellers and animators.&lt;/p&gt;
-</description>
+      <description>Links Animation Calendar
+Animation Software
+Projects Stykz Escape
+Blender Basics
+Blender Exploding Text
+&amp;nbsp;
+About the Class In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges.</description>
     </item>
     
     <item>
@@ -139,24 +78,11 @@
       <pubDate>Wed, 12 Oct 2016 22:34:00 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/8th/</guid>
-      <description>
-
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/8th/&#34;&gt;Animation Calendar&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/software/&#34;&gt;Animation Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-
-&lt;p&gt;Coming Soon&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
-
-&lt;p&gt;In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges. I am excited to see their work this semester as they grow as story tellers and animators.&lt;/p&gt;
-</description>
+      <description>Links Animation Calendar
+Animation Software
+Projects Coming Soon
+&amp;nbsp;
+About the Class In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges.</description>
     </item>
     
     <item>
@@ -165,22 +91,9 @@
       <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/anticipation/</guid>
-      <description>&lt;p&gt;Part 1&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/RBXd8xqTuhY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Part 2&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/xt2sCFiguz8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>Part 1
+  Part 2
+   </description>
     </item>
     
     <item>
@@ -189,38 +102,11 @@
       <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/blenderbasics/</guid>
-      <description>&lt;p&gt;Part 1&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/6bYeGrYo88g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Part 2&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/ZS3Z1GBFiyA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Part 3&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/wE_5l5wl658&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Part 4&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/JvmGWOr_NLk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>Part 1
+  Part 2
+   Part 3
+   Part 4
+   </description>
     </item>
     
     <item>
@@ -229,10 +115,7 @@
       <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/blendertext/</guid>
-      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PLTZoMpB5Z4aDZfkNbaGBsJzC18Q-m-B2w&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>  </description>
     </item>
     
   </channel>

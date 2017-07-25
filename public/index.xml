@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TurtleTooth</title>
-    <link>http://turtletooth.com/index.xml</link>
+    <link>http://turtletooth.com/</link>
     <description>Recent content on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Sun, 16 Jul 2017 21:59:26 -0600</lastBuildDate>
-    <atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Summer Video Game Design</title>
@@ -16,38 +18,19 @@
       <pubDate>Sun, 16 Jul 2017 21:59:26 -0600</pubDate>
       
       <guid>http://turtletooth.com/videogame/summer2017/</guid>
-      <description>
-
-&lt;h2 id=&#34;quick-links&#34;&gt;Quick Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gamestarmechanic.com/&#34;&gt;Gamestar Mechanic&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://unity3d.com/&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.blender.org/&#34;&gt;Blender 3D&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/turtletooth/unityscripts&#34;&gt;Unity Scripts&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLTZoMpB5Z4aDjQ-ltxXn54Fww2SKO1t4F&#34;&gt;Unity Bowling&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RFlh8pTf4DU&amp;amp;list=PLX2vGYjWbI0Q-s4_lX0h4i2zbZqlg4OfF&#34;&gt;Roll A Ball&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qCwdQGcNEU4&#34;&gt;Turbo Roll A Ball&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLTZoMpB5Z4aBBIfh-Y5iDPFtLwdBq0smw&#34;&gt;Blender Basics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLTZoMpB5Z4aBfKSnnjNvkTLYRauTvit-Z&#34;&gt;Unity FPS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLTZoMpB5Z4aBiWq2BLQcV_c45lQbL-buk&#34;&gt;Blender Character Basics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
-
-&lt;p&gt;Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of 3D games.  We will use a variety of tools to create our games including powerful 3D tools Blender and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.&lt;/p&gt;
-</description>
+      <description>Quick Links Gamestar Mechanic
+Unity Game Engine
+Blender 3D
+Unity Scripts
+Public Domain Textures
+Projects Unity Bowling
+Roll A Ball
+Turbo Roll A Ball
+Blender Basics
+Unity FPS
+Blender Character Basics
+&amp;nbsp;
+About the Class Students in video game design will study what it takes to make a good video game. Students will learn the different elements of video games and the design process using a variety of tools. Final projects will include a variety of 3D games.</description>
     </item>
     
     <item>
@@ -56,10 +39,7 @@
       <pubDate>Sat, 04 Feb 2017 21:58:04 -0600</pubDate>
       
       <guid>http://turtletooth.com/videogame/topdown/</guid>
-      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PLTZoMpB5Z4aAERX0HXUYhBu3UMUyQkKPp&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>  </description>
     </item>
     
     <item>
@@ -68,10 +48,7 @@
       <pubDate>Thu, 26 Jan 2017 21:58:04 -0600</pubDate>
       
       <guid>http://turtletooth.com/videogame/breakout/</guid>
-      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PLTZoMpB5Z4aB1qOiOp02KxHxX9NlJqS52&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>  </description>
     </item>
     
     <item>
@@ -80,10 +57,7 @@
       <pubDate>Thu, 12 Jan 2017 21:58:04 -0600</pubDate>
       
       <guid>http://turtletooth.com/video/premiere/</guid>
-      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-&lt;iframe src=&#34;https://www.youtube.com/embed/girfBe_P9zg?list=PLTZoMpB5Z4aAf-6zqm1M91I8JY-LdvD21&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>  </description>
     </item>
     
     <item>
@@ -92,13 +66,8 @@
       <pubDate>Wed, 11 Jan 2017 13:22:32 -0700</pubDate>
       
       <guid>http://turtletooth.com/animation/stykz/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-&lt;iframe src=&#34;https://www.youtube.com/embed/6oJ5NinCr9M?list=PLTZoMpB5Z4aAfhWebcjBGSV0gVrfM-yQW&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://stykz.net&#34;&gt;Download Stykz at Home&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>&amp;nbsp;
+Download Stykz at Home</description>
     </item>
     
     <item>
@@ -107,21 +76,9 @@
       <pubDate>Sat, 07 Jan 2017 21:49:02 -0700</pubDate>
       
       <guid>http://turtletooth.com/blog/2017/01/07/new_year/</guid>
-      <description>&lt;p&gt;With the start of a new semester and new year, I am again trying to update the site and make it easier to navigate for students and visitors.&lt;/p&gt;
-
-&lt;p&gt;Some new items are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dropdown at the top for each class&lt;/li&gt;
-&lt;li&gt;Each class has links at the top, followed by projects and a class overview&lt;/li&gt;
-&lt;li&gt;Small tweaks to the content for clarity and ease of use.&lt;/li&gt;
-&lt;li&gt;Updated graphics here and there&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The big task ahead of me is to incorporate my catalog of video tutorials into the site.  Where applicable I will be adding tutorials to the class projects section for each class but there will be a handful of tutorials that don&amp;rsquo;t necessarily relate to a class project that I think students will still be interested in.  I need to find a place to put those.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s going to be a good year.&lt;/p&gt;
-</description>
+      <description>With the start of a new semester and new year, I am again trying to update the site and make it easier to navigate for students and visitors.
+Some new items are:
+ Dropdown at the top for each class Each class has links at the top, followed by projects and a class overview Small tweaks to the content for clarity and ease of use. Updated graphics here and there  The big task ahead of me is to incorporate my catalog of video tutorials into the site.</description>
     </item>
     
     <item>
@@ -130,10 +87,8 @@
       <pubDate>Wed, 02 Nov 2016 16:07:52 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/opentoonz_squash/</guid>
-      <description>&lt;p&gt;Video Tutorial&lt;/p&gt;
-
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/Q_HMCx3ClJ8?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
+      <description>Video Tutorial
+ </description>
     </item>
     
     <item>
@@ -142,17 +97,9 @@
       <pubDate>Wed, 02 Nov 2016 16:07:52 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/opentoonz_basics/</guid>
-      <description>&lt;p&gt;Part 1&lt;/p&gt;
-
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/6RCKlcncIw4?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Part 2&lt;/p&gt;
-
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/ciQaExIM_A0?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Exporting
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/bJij9cl2GIk?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>Part 1
+ Part 2
+ Exporting</description>
     </item>
     
     <item>
@@ -161,46 +108,12 @@
       <pubDate>Mon, 17 Oct 2016 16:07:52 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/blendercharacter/</guid>
-      <description>&lt;p&gt;Part 1&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/Oy34ZPJyThY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Part 2&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/yPy30L_8mgs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Part 3&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/C4i54PwukJA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Part 4&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/S21LauNqqY4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Part 5&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/qbchWNdqUjY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>Part 1
+  Part 2
+   Part 3
+   Part 4
+   Part 5
+   </description>
     </item>
     
     <item>
@@ -209,28 +122,13 @@
       <pubDate>Wed, 12 Oct 2016 22:34:00 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/6th/</guid>
-      <description>
-
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/6th/&#34;&gt;Animation Calendar&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/software/&#34;&gt;Animation Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/animation/stykz/&#34;&gt;Stykz Escape&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/animation/blenderbasics/&#34;&gt;Blender Basics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/animation/blendertext/&#34;&gt;Blender Exploding Text&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
-
-&lt;p&gt;In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges. I am excited to see their work this semester as they grow as story tellers and animators.&lt;/p&gt;
-</description>
+      <description>Links Animation Calendar
+Animation Software
+Projects Stykz Escape
+Blender Basics
+Blender Exploding Text
+&amp;nbsp;
+About the Class In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges.</description>
     </item>
     
     <item>
@@ -239,24 +137,11 @@
       <pubDate>Wed, 12 Oct 2016 22:34:00 -0600</pubDate>
       
       <guid>http://turtletooth.com/animation/8th/</guid>
-      <description>
-
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/8th/&#34;&gt;Animation Calendar&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/software/&#34;&gt;Animation Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-
-&lt;p&gt;Coming Soon&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
-
-&lt;p&gt;In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges. I am excited to see their work this semester as they grow as story tellers and animators.&lt;/p&gt;
-</description>
+      <description>Links Animation Calendar
+Animation Software
+Projects Coming Soon
+&amp;nbsp;
+About the Class In this class students will explore various styles of animation and discover the elements that make an animation high quality and successful. We will study Stop Motion animation- used in films such as Coraline and Paranorman, and 2D Animation – used in traditional Disney films and the Simpsons and Family Guy. Each of these styles can be wonderful to use but also provide some unique challenges.</description>
     </item>
     
     <item>
@@ -265,116 +150,7 @@
       <pubDate>Wed, 12 Oct 2016 22:02:16 -0600</pubDate>
       
       <guid>http://turtletooth.com/photography/emotions/</guid>
-      <description>&lt;p&gt;Choose from the list below and create a photo that conveys that emotion.
-&lt;table width=&#34;100%&#34; border=&#34;0&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
-&lt;tbody&gt;
-&lt;tr valign=&#34;top&#34;&gt;
-&lt;td&gt;
-&lt;div&gt;
-&lt;ul&gt;
-    &lt;li&gt;Negative and forceful
-&lt;ul&gt;
-    &lt;li&gt;Anger&lt;/li&gt;
-    &lt;li&gt;Annoyance&lt;/li&gt;
-    &lt;li&gt;Contempt&lt;/li&gt;
-    &lt;li&gt;Disgust&lt;/li&gt;
-    &lt;li&gt;Irritation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-    &lt;li&gt;Negative and not in control
-&lt;ul&gt;
-    &lt;li&gt;Anxiety&lt;/li&gt;
-    &lt;li&gt;Embarrassment&lt;/li&gt;
-    &lt;li&gt;Fear&lt;/li&gt;
-    &lt;li&gt;Helplessness&lt;/li&gt;
-    &lt;li&gt;Lonely&lt;/li&gt;
-    &lt;li&gt;Powerlessness&lt;/li&gt;
-    &lt;li&gt;Worry&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-    &lt;li&gt;Negative thoughts
-&lt;ul&gt;
-    &lt;li&gt;Doubt&lt;/li&gt;
-    &lt;li&gt;Envy&lt;/li&gt;
-    &lt;li&gt;Frustration&lt;/li&gt;
-    &lt;li&gt;Guilt&lt;/li&gt;
-    &lt;li&gt;Shame&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;&lt;/td&gt;
-&lt;td&gt;
-&lt;ul&gt;
-    &lt;li&gt;Negative and passive
-&lt;ul&gt;
-    &lt;li&gt;Boredom&lt;/li&gt;
-    &lt;li&gt;Despair&lt;/li&gt;
-    &lt;li&gt;Disappointment&lt;/li&gt;
-    &lt;li&gt;Hurt&lt;/li&gt;
-    &lt;li&gt;Sadness&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-    &lt;li&gt;Agitation
-&lt;ul&gt;
-    &lt;li&gt;Stress&lt;/li&gt;
-    &lt;li&gt;Shock&lt;/li&gt;
-    &lt;li&gt;Tension&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-    &lt;li&gt;Positive and lively
-&lt;ul&gt;
-    &lt;li&gt;Amusement&lt;/li&gt;
-    &lt;li&gt;Delight&lt;/li&gt;
-    &lt;li&gt;Elation&lt;/li&gt;
-    &lt;li&gt;Excitement&lt;/li&gt;
-    &lt;li&gt;Happiness&lt;/li&gt;
-    &lt;li&gt;Joy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-    &lt;li&gt;Caring
-&lt;ul&gt;
-    &lt;li&gt;Affection&lt;/li&gt;
-    &lt;li&gt;Empathy&lt;/li&gt;
-    &lt;li&gt;Friendliness&lt;/li&gt;
-    &lt;li&gt;Love&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;div&gt;
-&lt;ul&gt;
-    &lt;li&gt;Positive thoughts
-&lt;ul&gt;
-    &lt;li&gt;Courage&lt;/li&gt;
-    &lt;li&gt;Hope&lt;/li&gt;
-    &lt;li&gt;Pride&lt;/li&gt;
-    &lt;li&gt;Satisfaction&lt;/li&gt;
-    &lt;li&gt;Trust&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-    &lt;li&gt;Quiet positive
-&lt;ul&gt;
-    &lt;li&gt;Calm&lt;/li&gt;
-    &lt;li&gt;Content&lt;/li&gt;
-    &lt;li&gt;Relaxed&lt;/li&gt;
-    &lt;li&gt;Relieved&lt;/li&gt;
-    &lt;li&gt;Serene&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-    &lt;li&gt;Reactive
-&lt;ul&gt;
-    &lt;li&gt;Interest&lt;/li&gt;
-    &lt;li&gt;Politeness&lt;/li&gt;
-    &lt;li&gt;Surprised&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/p&gt;
-</description>
+      <description>Choose from the list below and create a photo that conveys that emotion.     Negative and forceful  Anger Annoyance Contempt Disgust Irritation   Negative and not in control  Anxiety Embarrassment Fear Helplessness Lonely Powerlessness Worry   Negative thoughts  Doubt Envy Frustration Guilt Shame       Negative and passive  Boredom Despair Disappointment Hurt Sadness   Agitation  Stress Shock Tension   Positive and lively  Amusement Delight Elation Excitement Happiness Joy   Caring  Affection Empathy Friendliness Love        Positive thoughts  Courage Hope Pride Satisfaction Trust   Quiet positive  Calm Content Relaxed Relieved Serene   Reactive  Interest Politeness Surprised</description>
     </item>
     
     <item>
@@ -383,37 +159,9 @@
       <pubDate>Wed, 12 Oct 2016 22:01:10 -0600</pubDate>
       
       <guid>http://turtletooth.com/video/camerashots/</guid>
-      <description>&lt;p&gt;Hey folks-&lt;/p&gt;
-
-&lt;p&gt;The file below has a list of common camera shots.  Besides the boom shot, there are 28 possible types.  I want your group to film examples of 12 of the shots.  You need to use your camera and a tripod.&lt;/p&gt;
-
-&lt;p&gt;Here are the required shots:
-&lt;ul&gt;
-    &lt;li&gt;Establishing&lt;/li&gt;
-    &lt;li&gt;Two-Shot&lt;/li&gt;
-    &lt;li&gt;Long Shot (Wide) Shot&lt;/li&gt;
-    &lt;li&gt;Close-Up&lt;/li&gt;
-    &lt;li&gt;Extreme Close-Up&lt;/li&gt;
-    &lt;li&gt;Over the Shoulder&lt;/li&gt;
-    &lt;li&gt;Pan&lt;/li&gt;
-    &lt;li&gt;Tilt&lt;/li&gt;
-    &lt;li&gt;Medium Shot&lt;/li&gt;
-    &lt;li&gt;Follow Shot&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div&gt;Possible other shots:&lt;/div&gt;
-&lt;div&gt;
-&lt;ul&gt;
-    &lt;li&gt;High Angle&lt;/li&gt;
-    &lt;li&gt;Low Angle&lt;/li&gt;
-    &lt;li&gt;Reaction Shot&lt;/li&gt;
-    &lt;li&gt;Point of View&lt;/li&gt;
-    &lt;li&gt;Head On Shot&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-The other four are up to your group.  Once you have your videos, edit them in iMovie and label each shot with its name.&lt;/p&gt;
-
-&lt;p&gt;&lt;a title=&#34;Camera Shots&#34; href=&#34;https://docs.google.com/viewer?a=v&amp;amp;pid=explorer&amp;amp;chrome=true&amp;amp;srcid=0B9Tr36dGKi_CNGE3Njk1OTAtOTZiOS00NWUyLTg0MmItMGMwNTVkNmYzZWNm&amp;amp;hl=en&#34;&gt;Click here for the list of shots&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Hey folks-
+The file below has a list of common camera shots. Besides the boom shot, there are 28 possible types. I want your group to film examples of 12 of the shots. You need to use your camera and a tripod.
+Here are the required shots:  Establishing Two-Shot Long Shot (Wide) Shot Close-Up Extreme Close-Up Over the Shoulder Pan Tilt Medium Shot Follow Shot  Possible other shots:   High Angle Low Angle Reaction Shot Point of View Head On Shot   The other four are up to your group.</description>
     </item>
     
     <item>
@@ -422,9 +170,7 @@ The other four are up to your group.  Once you have your videos, edit them in i
       <pubDate>Wed, 12 Oct 2016 21:59:26 -0600</pubDate>
       
       <guid>http://turtletooth.com/photography/8th/</guid>
-      <description>&lt;p&gt;Digital Media Seminar
-Students in this class will work with digital cameras, video cameras, Photoshop Elements, iPhoto and iMovie to develop multimedia projects.  Class activities will include a Claymation movie, silent movie, digital photography projects, a research project on American photographers, and a field trip with an emphasis on photography.  Being familiar with digital photography and video would be helpful, but not a requirement.  Students in the 2nd semester of this class will produce the 8th grade continuation video.  Students will receive a print of their photos and a DVD of videos produced in class.&lt;/p&gt;
-</description>
+      <description>Digital Media Seminar Students in this class will work with digital cameras, video cameras, Photoshop Elements, iPhoto and iMovie to develop multimedia projects. Class activities will include a Claymation movie, silent movie, digital photography projects, a research project on American photographers, and a field trip with an emphasis on photography. Being familiar with digital photography and video would be helpful, but not a requirement. Students in the 2nd semester of this class will produce the 8th grade continuation video.</description>
     </item>
     
     <item>
@@ -433,34 +179,272 @@ Students in this class will work with digital cameras, video cameras, Photoshop 
       <pubDate>Wed, 12 Oct 2016 21:59:26 -0600</pubDate>
       
       <guid>http://turtletooth.com/videogame/8th/</guid>
-      <description>
-
-&lt;h2 id=&#34;quick-links&#34;&gt;Quick Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/8th/&#34;&gt;Class Calendar&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/0B0BVrD_GtJgxSzlFa29mSUhKbDQ/view?usp=sharing&#34;&gt;Class Form&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gamestarmechanic.com/&#34;&gt;Gamestar Mechanic&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://unity3d.com/&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.yoyogames.com/gamemaker&#34;&gt;GameMaker Studio&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.piskelapp.com/&#34;&gt;Piskel Pixel Art Editor&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/videogame/breakout/&#34;&gt;Breakout&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/videogame/topdown/&#34;&gt;Top Down Game&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
-
-&lt;p&gt;Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of games in both 2D and 3D.  We will use a variety of tools to create our games including industry standard software such as Maya and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.&lt;/p&gt;
-</description>
+      <description>Quick Links Class Calendar
+Class Form
+Gamestar Mechanic
+Unity Game Engine
+GameMaker Studio
+Piskel Pixel Art Editor
+Projects Breakout
+Top Down Game
+&amp;nbsp;
+About the Class Students in video game design will study what it takes to make a good video game. Students will learn the different elements of video games and the design process using a variety of tools. Final projects will include a variety of games in both 2D and 3D.</description>
+    </item>
+    
+    <item>
+      <title>7th Grade Video</title>
+      <link>http://turtletooth.com/video/7th/</link>
+      <pubDate>Wed, 12 Oct 2016 21:58:04 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/video/7th/</guid>
+      <description>Links Class Calendar
+Class Software
+Projects Premiere Pro Basics
+Camera Shots
+About the Class Digital Photography and Video Production In this class students will focus on creating a variety of videos, and learn the various elements video editing. Along the way, students will learn the importance of storyboarding, shot planning and camera use. Students will create a white-board stop motion project and also use the news studio to create a newscast.</description>
+    </item>
+    
+    <item>
+      <title>6th Grade Photography</title>
+      <link>http://turtletooth.com/photography/6th/</link>
+      <pubDate>Wed, 12 Oct 2016 21:57:03 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/photography/6th/</guid>
+      <description>Links Class Calendar
+Class Software
+Projects Coming soon&amp;hellip;
+&amp;nbsp;
+About the Class Intro to Digital Photography Students will learn to take great photos in this class as they explore the different types of photography and learn how to better use cameras. The class will help students understand the concepts of exposure, composition, and subject choice. Photo editing will also be covered as students learn to use Photoshop through a variety of creative projects.</description>
+    </item>
+    
+    <item>
+      <title>Painted Animals</title>
+      <link>http://turtletooth.com/photography/animals/</link>
+      <pubDate>Wed, 12 Oct 2016 21:46:36 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/photography/animals/</guid>
+      <description>Click Here to Choose Your Animal</description>
+    </item>
+    
+    <item>
+      <title>The Shoe Project</title>
+      <link>http://turtletooth.com/photography/shoes/</link>
+      <pubDate>Wed, 12 Oct 2016 21:44:46 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/photography/shoes/</guid>
+      <description>Pick a type of shoe: High Tops
+Nike Racers
+Nike Air
+More Nike
+More Nike2 
+More Nike3</description>
+    </item>
+    
+    <item>
+      <title>Anticipation</title>
+      <link>http://turtletooth.com/animation/anticipation/</link>
+      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/animation/anticipation/</guid>
+      <description>Part 1
+  Part 2
+   </description>
+    </item>
+    
+    <item>
+      <title>Blender Basics</title>
+      <link>http://turtletooth.com/animation/blenderbasics/</link>
+      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/animation/blenderbasics/</guid>
+      <description>Part 1
+  Part 2
+   Part 3
+   Part 4
+   </description>
+    </item>
+    
+    <item>
+      <title>Blender Exploding Text</title>
+      <link>http://turtletooth.com/animation/blendertext/</link>
+      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/animation/blendertext/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Current Broadcast Assignments</title>
+      <link>http://turtletooth.com/broadcast/current-assignments/</link>
+      <pubDate>Sun, 09 Oct 2016 22:42:58 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/broadcast/current-assignments/</guid>
+      <description> Gabe, Alora, Jordan - Current News Thejas, Cedric, Jade - Eagleview News Hunter, Gavin, Avery - Library Feature Brooke, Klia, John - Mini Stories Tai, Rico, Dominic - Football Nick, Cameron, Daniel - Fun Stories Scarlet, Kobe - Sports Sign-Ups  </description>
+    </item>
+    
+    <item>
+      <title>8th Grade Calendar</title>
+      <link>http://turtletooth.com/calendar/8th/</link>
+      <pubDate>Sun, 09 Oct 2016 22:13:49 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/calendar/8th/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Broadcast Calendar</title>
+      <link>http://turtletooth.com/calendar/broadcast/</link>
+      <pubDate>Sun, 09 Oct 2016 22:13:26 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/calendar/broadcast/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>7th calendar</title>
+      <link>http://turtletooth.com/calendar/7th/</link>
+      <pubDate>Sun, 09 Oct 2016 22:13:17 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/calendar/7th/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>6th Calendar</title>
+      <link>http://turtletooth.com/calendar/6th/</link>
+      <pubDate>Sun, 09 Oct 2016 22:03:40 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/calendar/6th/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>http://turtletooth.com/blog/2016/09/02/getting-started/</link>
+      <pubDate>Fri, 02 Sep 2016 13:50:46 +0200</pubDate>
+      
+      <guid>http://turtletooth.com/blog/2016/09/02/getting-started/</guid>
+      <description>Still Building This website is built using HUGO, a static webpage generator that is pretty awesome.
+Obviously there isn&amp;rsquo;t much here yet, but there will be.</description>
+    </item>
+    
+    <item>
+      <title>8th Grade Broadcast Journalism</title>
+      <link>http://turtletooth.com/broadcast/broadcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turtletooth.com/broadcast/broadcast/</guid>
+      <description>Quick Links Broadcast Calendar
+Broadcast Class Form
+Current Broadcast Assignments
+Script for the Studio
+&amp;nbsp;
+&amp;nbsp;
+The Talon is the daily news broadcast of the students at Eagleview Middle School. It is a student run broadcast. Students perform all the duties from running the cameras and sound board to being anchors.
+Broadcasts are filmed during the morning and aired to the school in the afternoon.
+&amp;nbsp;
+Students are on a rotation through the news studio.</description>
+    </item>
+    
+    <item>
+      <title>Animation</title>
+      <link>http://turtletooth.com/animation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turtletooth.com/animation/</guid>
+      <description>Computer Animation at Eagleview We offer animation for grades 6 and 8 here at Eagleview. Students learn the principles of animation as they explore a variety of animation techniques and styles. Students will create projects using:
+ Traditional 2D Animation 3D Animation Stop Motion  Class Pages  8th Grade Animation
+ 6th Grade Animation
+  Links Animation Calendar
+ In case you haven&amp;rsquo;t found the answer for your question please feel free to contact me .</description>
+    </item>
+    
+    <item>
+      <title>Broadcast Journalism at Eagleview</title>
+      <link>http://turtletooth.com/broadcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turtletooth.com/broadcast/</guid>
+      <description>The daily announcements can be seen at EagleviewMedia.org. &amp;nbsp;
+The Talon is the daily news broadcast of the students at Eagleview Middle School. It is a student run broadcast. Students perform all the duties from running the cameras and sound board to being anchors.
+Broadcasts are filmed during the morning and aired to the school in the afternoon.
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+Students are on a rotation through the news studio.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://turtletooth.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turtletooth.com/contact/</guid>
+      <description>How can I help you? Are you curious about something? Do you have some kind of problem with an assignment or software?
+Please feel free to contact me, my Jupiter based customer service center is working for you 24&amp;frasl;7.</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://turtletooth.com/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turtletooth.com/photography/</guid>
+      <description> 6th Grade Photography at Eagleview
+More to Come Please check back for:
+ Projects Tutorials Class Calendar More &amp;hellip;   In case you haven&amp;rsquo;t found the answer for your question please feel free to contact me .
+ </description>
+    </item>
+    
+    <item>
+      <title>Quick Info for Digital Media Classes</title>
+      <link>http://turtletooth.com/quick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turtletooth.com/quick/</guid>
+      <description> Class Forms  8th Grade Broadcast 8th Grade Animation 8th Grade Video Game Design 7th Grade Video 6th Grade Photography 6th Grade Animation  Class Calendars  Broadcast Calendar 8th Grade Calendar 7th Grade Calendar 6th Grade Calendar   In case you haven&amp;rsquo;t found the answer for your question please feel free to contact me .
+ </description>
+    </item>
+    
+    <item>
+      <title>Software We Use</title>
+      <link>http://turtletooth.com/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turtletooth.com/software/</guid>
+      <description>We use a variety of software in the Digital Media department at Eagleview.
+Here is the software we use for each class. If the software is freely available, a link is also provided.
+Whenever possible, I choose software that is free (and Open Source) for students to use at home.
+Photography:
+ Adobe Photoshop  Film and Video:
+ Adobe Premiere Pro Adobe After Effects  2D Animation:
+ OpenToonz* Stykx Stick Figure Animation Anime Studio Pro (Now called Moho) Krita  3D Animation:</description>
+    </item>
+    
+    <item>
+      <title>Video Game Design</title>
+      <link>http://turtletooth.com/videogames/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turtletooth.com/videogames/</guid>
+      <description> Video Game Design at Eagleview
+More to Come Please check back for:
+ Projects Tutorials Class Calendar More &amp;hellip;   In case you haven&amp;rsquo;t found the answer for your question please feel free to contact me .
+ </description>
+    </item>
+    
+    <item>
+      <title>Video Production</title>
+      <link>http://turtletooth.com/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://turtletooth.com/video/</guid>
+      <description> Video Production at Eagleview
+More to Come Please check back for:
+ Projects Tutorials Class Calendar More &amp;hellip;   In case you haven&amp;rsquo;t found the answer for your question please feel free to contact me .
+ </description>
     </item>
     
   </channel>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Broadcast-rsses on TurtleTooth</title>
-    <link>http://turtletooth.com/broadcast/index.xml</link>
-    <description>Recent content in Broadcast-rsses on TurtleTooth</description>
+    <title>Broadcasts on TurtleTooth</title>
+    <link>http://turtletooth.com/broadcast/</link>
+    <description>Recent content in Broadcasts on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Sun, 09 Oct 2016 22:42:58 -0600</lastBuildDate>
-    <atom:link href="http://turtletooth.com/broadcast/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://turtletooth.com/broadcast/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Current Broadcast Assignments</title>
@@ -16,16 +18,7 @@
       <pubDate>Sun, 09 Oct 2016 22:42:58 -0600</pubDate>
       
       <guid>http://turtletooth.com/broadcast/current-assignments/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Gabe, Alora, Jordan - Current News&lt;/li&gt;
-&lt;li&gt;Thejas, Cedric, Jade - Eagleview News&lt;/li&gt;
-&lt;li&gt;Hunter, Gavin, Avery - Library Feature&lt;/li&gt;
-&lt;li&gt;Brooke, Klia, John - Mini Stories&lt;/li&gt;
-&lt;li&gt;Tai, Rico, Dominic - Football&lt;/li&gt;
-&lt;li&gt;Nick, Cameron, Daniel - Fun Stories&lt;/li&gt;
-&lt;li&gt;Scarlet, Kobe - Sports Sign-Ups&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Gabe, Alora, Jordan - Current News Thejas, Cedric, Jade - Eagleview News Hunter, Gavin, Avery - Library Feature Brooke, Klia, John - Mini Stories Tai, Rico, Dominic - Football Nick, Cameron, Daniel - Fun Stories Scarlet, Kobe - Sports Sign-Ups  </description>
     </item>
     
     <item>
@@ -34,46 +27,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turtletooth.com/broadcast/broadcast/</guid>
-      <description>
-
-&lt;p&gt;&lt;img class=&#34;pull-right img-responsive&#34; src=&#34;../../img/broadcast/studio1.jpg&#34; alt=&#34;Talon Studio&#34; style = &#34;padding: 10px;&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;quick-links&#34;&gt;Quick Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/broadcast/&#34;&gt;Broadcast Calendar&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/0B0BVrD_GtJgxc2stRFlCRkJDX00/view?usp=sharing&#34;&gt;Broadcast Class Form&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/broadcast/current-assignments/&#34;&gt;Current Broadcast Assignments&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1rjv0am9vdmJZP1DYAC0AQwLMOfw6rfnENa_2If4fLU0/edit?usp=sharing&#34;&gt;Script for the Studio&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;The Talon is the daily news broadcast of the students at Eagleview Middle School.
-It is a student run broadcast. Students perform all the duties from running the cameras and sound board to being anchors.&lt;/p&gt;
-
-&lt;p&gt;Broadcasts are filmed during the morning and aired to the school in the afternoon.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;pull-left img-responsive img-rounded&#34; src=&#34;../../img/broadcast/studio2.jpg&#34; alt=&#34;Talon Studio Behind the Scenes&#34; style = &#34;padding: 10px;&#34;&gt;
-Students are on a rotation through the news studio.  On days that they are not in the studio, students create feature stories showcasing the events and activities at Eagleview.  They may do a feature on clubs, sports, students, staff or any other noteworthy topic.&lt;/p&gt;
-
-&lt;p&gt;The class is designed to be fun yet practical.  Students serve the school and community by sharing information while at the same time getting hands on practice in a studio setting.&lt;/p&gt;
-
-&lt;p&gt;While we don&amp;rsquo;t claim to be professionals, we do our best to provide a quality presentation each day.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In case you haven&amp;rsquo;t found the answer for your question please feel free to &lt;a href=&#34;http://turtletooth.com/contact/&#34;&gt; contact me &lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>Quick Links Broadcast Calendar
+Broadcast Class Form
+Current Broadcast Assignments
+Script for the Studio
+&amp;nbsp;
+&amp;nbsp;
+The Talon is the daily news broadcast of the students at Eagleview Middle School. It is a student run broadcast. Students perform all the duties from running the cameras and sound board to being anchors.
+Broadcasts are filmed during the morning and aired to the school in the afternoon.
+&amp;nbsp;
+Students are on a rotation through the news studio.</description>
     </item>
     
   </channel>

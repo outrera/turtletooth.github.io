@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TurtleTooth</title>
-    <link>http://turtletooth.com/categories/calendars/index.xml</link>
-    <description>Recent content on TurtleTooth</description>
+    <title>Calendars on TurtleTooth</title>
+    <link>http://turtletooth.com/categories/calendars/</link>
+    <description>Recent content in Calendars on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
-    <atom:link href="http://turtletooth.com/categories/calendars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Oct 2016 22:13:49 -0600</lastBuildDate>
+    
+	<atom:link href="http://turtletooth.com/categories/calendars/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>8th Grade Calendar</title>
@@ -15,8 +18,7 @@
       <pubDate>Sun, 09 Oct 2016 22:13:49 -0600</pubDate>
       
       <guid>http://turtletooth.com/calendar/8th/</guid>
-      <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?showTitle=0&amp;amp;showPrint=0&amp;amp;height=600&amp;amp;wkst=1&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=kpfav5gmq2486prvuniaume9ao%40group.calendar.google.com&amp;amp;color=%231B887A&amp;amp;ctz=America%2FDenver&#34; style=&#34;border-width:0&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description> </description>
     </item>
     
     <item>
@@ -25,8 +27,7 @@
       <pubDate>Sun, 09 Oct 2016 22:13:26 -0600</pubDate>
       
       <guid>http://turtletooth.com/calendar/broadcast/</guid>
-      <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?showTitle=0&amp;amp;height=600&amp;amp;wkst=1&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=qaiieonuaga7t5ehd2aa9kj688%40group.calendar.google.com&amp;amp;color=%232952A3&amp;amp;src=kjs3j7hdvtpnn90mslc776ppvo%40group.calendar.google.com&amp;amp;color=%232F6309&amp;amp;src=rhtg69d7ihrdh16mon78ocof54%40group.calendar.google.com&amp;amp;color=%23AB8B00&amp;amp;ctz=America%2FDenver&#34; style=&#34;border-width:0&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description> </description>
     </item>
     
     <item>
@@ -35,8 +36,7 @@
       <pubDate>Sun, 09 Oct 2016 22:13:17 -0600</pubDate>
       
       <guid>http://turtletooth.com/calendar/7th/</guid>
-      <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?showTitle=0&amp;amp;showPrint=0&amp;amp;height=600&amp;amp;wkst=1&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=r9e8k5p2uf5osg6upg3pcpefvc%40group.calendar.google.com&amp;amp;color=%23B1365F&amp;amp;ctz=America%2FDenver&#34; style=&#34;border-width:0&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description> </description>
     </item>
     
     <item>
@@ -45,8 +45,7 @@
       <pubDate>Sun, 09 Oct 2016 22:03:40 -0600</pubDate>
       
       <guid>http://turtletooth.com/calendar/6th/</guid>
-      <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?showPrint=0&amp;amp;height=600&amp;amp;wkst=1&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=jkqkr82p5l6cqocv0q3q4pgivo%40group.calendar.google.com&amp;amp;color=%23AB8B00&amp;amp;ctz=America%2FDenver&#34; style=&#34;border-width:0&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description> </description>
     </item>
     
   </channel>

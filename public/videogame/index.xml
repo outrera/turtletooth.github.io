@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videogame-rsses on TurtleTooth</title>
-    <link>http://turtletooth.com/videogame/index.xml</link>
-    <description>Recent content in Videogame-rsses on TurtleTooth</description>
+    <title>Videogames on TurtleTooth</title>
+    <link>http://turtletooth.com/videogame/</link>
+    <description>Recent content in Videogames on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Sun, 16 Jul 2017 21:59:26 -0600</lastBuildDate>
-    <atom:link href="http://turtletooth.com/videogame/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://turtletooth.com/videogame/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Summer Video Game Design</title>
@@ -16,38 +18,19 @@
       <pubDate>Sun, 16 Jul 2017 21:59:26 -0600</pubDate>
       
       <guid>http://turtletooth.com/videogame/summer2017/</guid>
-      <description>
-
-&lt;h2 id=&#34;quick-links&#34;&gt;Quick Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gamestarmechanic.com/&#34;&gt;Gamestar Mechanic&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://unity3d.com/&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.blender.org/&#34;&gt;Blender 3D&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/turtletooth/unityscripts&#34;&gt;Unity Scripts&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLTZoMpB5Z4aDjQ-ltxXn54Fww2SKO1t4F&#34;&gt;Unity Bowling&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RFlh8pTf4DU&amp;amp;list=PLX2vGYjWbI0Q-s4_lX0h4i2zbZqlg4OfF&#34;&gt;Roll A Ball&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qCwdQGcNEU4&#34;&gt;Turbo Roll A Ball&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLTZoMpB5Z4aBBIfh-Y5iDPFtLwdBq0smw&#34;&gt;Blender Basics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLTZoMpB5Z4aBfKSnnjNvkTLYRauTvit-Z&#34;&gt;Unity FPS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLTZoMpB5Z4aBiWq2BLQcV_c45lQbL-buk&#34;&gt;Blender Character Basics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
-
-&lt;p&gt;Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of 3D games.  We will use a variety of tools to create our games including powerful 3D tools Blender and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.&lt;/p&gt;
-</description>
+      <description>Quick Links Gamestar Mechanic
+Unity Game Engine
+Blender 3D
+Unity Scripts
+Public Domain Textures
+Projects Unity Bowling
+Roll A Ball
+Turbo Roll A Ball
+Blender Basics
+Unity FPS
+Blender Character Basics
+&amp;nbsp;
+About the Class Students in video game design will study what it takes to make a good video game. Students will learn the different elements of video games and the design process using a variety of tools. Final projects will include a variety of 3D games.</description>
     </item>
     
     <item>
@@ -56,10 +39,7 @@
       <pubDate>Sat, 04 Feb 2017 21:58:04 -0600</pubDate>
       
       <guid>http://turtletooth.com/videogame/topdown/</guid>
-      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PLTZoMpB5Z4aAERX0HXUYhBu3UMUyQkKPp&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>  </description>
     </item>
     
     <item>
@@ -68,10 +48,7 @@
       <pubDate>Thu, 26 Jan 2017 21:58:04 -0600</pubDate>
       
       <guid>http://turtletooth.com/videogame/breakout/</guid>
-      <description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PLTZoMpB5Z4aB1qOiOp02KxHxX9NlJqS52&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
+      <description>  </description>
     </item>
     
     <item>
@@ -80,34 +57,16 @@
       <pubDate>Wed, 12 Oct 2016 21:59:26 -0600</pubDate>
       
       <guid>http://turtletooth.com/videogame/8th/</guid>
-      <description>
-
-&lt;h2 id=&#34;quick-links&#34;&gt;Quick Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/calendar/8th/&#34;&gt;Class Calendar&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/0B0BVrD_GtJgxSzlFa29mSUhKbDQ/view?usp=sharing&#34;&gt;Class Form&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gamestarmechanic.com/&#34;&gt;Gamestar Mechanic&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://unity3d.com/&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.yoyogames.com/gamemaker&#34;&gt;GameMaker Studio&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.piskelapp.com/&#34;&gt;Piskel Pixel Art Editor&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/videogame/breakout/&#34;&gt;Breakout&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://turtletooth.com/videogame/topdown/&#34;&gt;Top Down Game&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 id=&#34;about-the-class&#34;&gt;About the Class&lt;/h2&gt;
-
-&lt;p&gt;Students in video game design will study what it takes to make a good video game.  Students will learn the different elements of video games and the design process using a variety of tools.  Final projects will include a variety of games in both 2D and 3D.  We will use a variety of tools to create our games including industry standard software such as Maya and Unity3D.  This class is designed to be both technically and creatively challenging.  This class is a great fit for students who have a strong interest in using technology as a creative tool.&lt;/p&gt;
-</description>
+      <description>Quick Links Class Calendar
+Class Form
+Gamestar Mechanic
+Unity Game Engine
+GameMaker Studio
+Piskel Pixel Art Editor
+Projects Breakout
+Top Down Game
+&amp;nbsp;
+About the Class Students in video game design will study what it takes to make a good video game. Students will learn the different elements of video games and the design process using a variety of tools. Final projects will include a variety of games in both 2D and 3D.</description>
     </item>
     
   </channel>

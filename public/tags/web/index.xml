@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TurtleTooth</title>
-    <link>http://turtletooth.com/tags/web/index.xml</link>
-    <description>Recent content on TurtleTooth</description>
+    <title>Web on TurtleTooth</title>
+    <link>http://turtletooth.com/tags/web/</link>
+    <description>Recent content in Web on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
-    <atom:link href="http://turtletooth.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2017 21:49:02 -0700</lastBuildDate>
+    
+	<atom:link href="http://turtletooth.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>New Year, New Content</title>
@@ -15,21 +18,9 @@
       <pubDate>Sat, 07 Jan 2017 21:49:02 -0700</pubDate>
       
       <guid>http://turtletooth.com/blog/2017/01/07/new_year/</guid>
-      <description>&lt;p&gt;With the start of a new semester and new year, I am again trying to update the site and make it easier to navigate for students and visitors.&lt;/p&gt;
-
-&lt;p&gt;Some new items are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dropdown at the top for each class&lt;/li&gt;
-&lt;li&gt;Each class has links at the top, followed by projects and a class overview&lt;/li&gt;
-&lt;li&gt;Small tweaks to the content for clarity and ease of use.&lt;/li&gt;
-&lt;li&gt;Updated graphics here and there&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The big task ahead of me is to incorporate my catalog of video tutorials into the site.  Where applicable I will be adding tutorials to the class projects section for each class but there will be a handful of tutorials that don&amp;rsquo;t necessarily relate to a class project that I think students will still be interested in.  I need to find a place to put those.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s going to be a good year.&lt;/p&gt;
-</description>
+      <description>With the start of a new semester and new year, I am again trying to update the site and make it easier to navigate for students and visitors.
+Some new items are:
+ Dropdown at the top for each class Each class has links at the top, followed by projects and a class overview Small tweaks to the content for clarity and ease of use. Updated graphics here and there  The big task ahead of me is to incorporate my catalog of video tutorials into the site.</description>
     </item>
     
     <item>
@@ -38,14 +29,8 @@
       <pubDate>Fri, 02 Sep 2016 13:50:46 +0200</pubDate>
       
       <guid>http://turtletooth.com/blog/2016/09/02/getting-started/</guid>
-      <description>
-
-&lt;h2 id=&#34;still-building&#34;&gt;Still Building&lt;/h2&gt;
-
-&lt;p&gt;This website is built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;, a static webpage generator that is pretty awesome.&lt;/p&gt;
-
-&lt;p&gt;Obviously there isn&amp;rsquo;t much here yet, but there will be.&lt;/p&gt;
-</description>
+      <description>Still Building This website is built using HUGO, a static webpage generator that is pretty awesome.
+Obviously there isn&amp;rsquo;t much here yet, but there will be.</description>
     </item>
     
   </channel>

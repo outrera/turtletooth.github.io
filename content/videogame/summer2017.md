@@ -15,7 +15,11 @@ title = "Summer Video Game Design"
 
 [Blender 3D](https://www.blender.org/)
 
-[Unity Scripts](https://github.com/turtletooth/unityscripts)
+[Unity Scripts](https://drive.google.com/open?id=0B0BVrD_GtJgxbnFVQThMZEx6R1k)
+
+[Public Domain Textures](https://drive.google.com/open?id=0B0BVrD_GtJgxY2xCbmJ1d2lmUGM)
+
+
 
 ## Projects
 
