@@ -27,6 +27,10 @@ title = "Summer Video Game Design"
 
 [Blender Basics](https://www.youtube.com/playlist?list=PLTZoMpB5Z4aBBIfh-Y5iDPFtLwdBq0smw)
 
+[Unity FPS](https://www.youtube.com/playlist?list=PLTZoMpB5Z4aBfKSnnjNvkTLYRauTvit-Z)
+
+[Blender Character Basics](https://www.youtube.com/playlist?list=PLTZoMpB5Z4aBiWq2BLQcV_c45lQbL-buk)
+
 
 &nbsp;
 
