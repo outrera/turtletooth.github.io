@@ -9,15 +9,15 @@
 
         <header>
 
-          {{ partial "nav.html" . }}
+                {{ partial "header.html" . }}
 
         </header>
 
-        {{ partial "breadcrumbs.html" . }}
+
 
         <div id="content">
             <div class="container">
-
+                Single Template
                 <div class="row">
 
                     <!-- *** LEFT COLUMN *** -->
@@ -30,11 +30,7 @@
                           {{ .Content }}
                         </div>
                         <!-- /#post-content -->
-                        {{ if .Site.DisqusShortname }}
-                        <div id="comments">
-                            {{ template "_internal/disqus.html" . }}
-                        </div>
-                        {{ end }}
+
 
                     </div>
                     <!-- /#blog-post -->
@@ -47,7 +43,7 @@
 
                         <!-- *** MENUS AND WIDGETS *** -->
 
-                        {{ partial "sidebar.html" . }}
+
 
                         <!-- *** MENUS AND FILTERS END *** -->
 
@@ -69,7 +65,8 @@
     </div>
     <!-- /#all -->
 
-    {{ partial "scripts.html" . }}
+
 
   </body>
+  {{ partial "scripts.html" . }}
 </html>
