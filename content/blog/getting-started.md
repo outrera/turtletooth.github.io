@@ -1,7 +1,7 @@
 +++
 title = "Getting Started"
 date = "2016-09-02T13:50:46+02:00"
-tags = ["design", "web"]
+tags = [ "design", "web" ]
 banner = "img/banners/banner-1.jpg"
 +++
 

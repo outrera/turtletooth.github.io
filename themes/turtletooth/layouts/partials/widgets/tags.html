@@ -1,7 +1,7 @@
 {{ if .Site.Params.widgets.tags }}
 {{ if isset .Site.Taxonomies "tags" }}
 {{ if not (eq (len .Site.Taxonomies.tags) 0) }}
-<div class="panel sidebar-menu">
+<div class="panel panel-default sidebar-menu">
     <div class="panel-heading">
         <h3 class="panel-title">Tags</h3>
     </div>
@@ -18,3 +18,4 @@
 {{ end }}
 {{ end }}
 {{ end }}
+

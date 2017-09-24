@@ -23,9 +23,9 @@ title = "8th Grade Video Game Design"
 
 ## Projects
 
-[Breakout]({{< ref "videogame/breakout.md" >}})
+[Breakout]({{< ref "videogames/breakout.md" >}})
 
-[Top Down Game]({{< ref "videogame/topdown.md" >}})
+[Top Down Game]({{< ref "videogames/topdown.md" >}})
 
 &nbsp;
 

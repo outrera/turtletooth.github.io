@@ -12,18 +12,19 @@
           {{ partial "header.html" . }}
 
         </header>
+        {{ partial "title.html" . }}
 
         <div id="content">
-            Blog Template
+            
             <div class="container">
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
 
-                    <div class="col-md-9" id="blog-listing-medium">
-
+                    <div class="col-md-9">
+                            Blog Template
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
                         {{ range $paginator.Pages }}
-                        <section class="post">
+                        <section class="post blog-entry">
                             <div class="row">
                                 <div class="col-md-4">
                                   <div class="image">
@@ -87,7 +88,7 @@
 
                         <!-- *** MENUS AND WIDGETS *** -->
 
-
+                        {{ partial "sidebar.html" . }}
 
                         <!-- *** MENUS AND FILTERS END *** -->
 

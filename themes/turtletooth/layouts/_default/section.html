@@ -5,21 +5,18 @@
 
   <body>
 
-    {{ partial "header.html" . }}
-
     <div id="all">
 
         <header>
-
+            {{ partial "header.html" . }}
         </header>
-
+        {{ partial "title.html" . }}
         <div id="content">
             <div class="container">
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
-                    {{ .Title }}
-                    {{ .Content }}
                     <div class="col-md-9" id="blog-listing-medium">
+                        {{ .Content }}
                         Section Template
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "page") }}
                         {{ range $paginator.Pages }}
@@ -87,7 +84,7 @@
 
                         <!-- *** MENUS AND WIDGETS *** -->
 
-
+                        {{ partial "sidebar.html" . }}
                         <!-- *** MENUS AND FILTERS END *** -->
 
                     </div>

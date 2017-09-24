@@ -3,6 +3,11 @@
 
         {{ if isset .Site.Params "about_us" }}
         <div class="col-md-4 col-sm-6">
+            <div class="social">
+            <a href="http://youtube.com/c/jeremybullock"><i class="fa fa-youtube-play"></i></a> &nbsp;
+            <a href="http://github.com/turtletooth"><i class="fa fa-github"></i></a> &nbsp;
+            <a href="http://twitter.com/turtletooth"><i class="fa fa-twitter"></i></a> &nbsp;
+            </div>
             <h4>About Me</h4>
 
             {{ .Site.Params.about_us | safeHTML }}
@@ -15,46 +20,10 @@
 
         <div class="col-md-4 col-sm-6">
 
-            <h4>Recent posts</h4>
-
-            <div class="blog-entries">
-                {{ range first 3 (where .Site.Pages "Type" "blog") }}
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="{{ .Permalink }}">
-                          {{ if isset .Params "banner" }}
-                            <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
-                          {{ else }}
-                            <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
-                          {{ end }}
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
-                    </div>
-                </div>
-                {{ end }}
-            </div>
-
-            <hr class="hidden-md hidden-lg">
+            
 
         </div>
         <!-- /.col-md-4 -->
-
-        {{ if isset .Site.Params "address" }}
-        <div class="col-md-4 col-sm-6">
-
-            <h4>Contact</h4>
-
-            {{ .Site.Params.address | safeHTML }}
-
-            <a href="/contact" class="btn btn-small btn-template-main">Go to contact page</a>
-
-            <hr class="hidden-md hidden-lg hidden-sm">
-
-        </div>
-        <!-- /.col-md-4 -->
-        {{ end }}
 
     </div>
     <!-- /.container -->

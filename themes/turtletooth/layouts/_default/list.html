@@ -5,20 +5,18 @@
 
   <body>
 
-    {{ partial "header.html" . }}
-
     <div id="all">
 
         <header>
-
+            {{ partial "header.html" . }}
         </header>
-
+        {{ partial "title.html" . }}
         <div id="content">
             <div class="container">
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
 
-                    <div class="col-md-9" id="blog-listing-medium">
+                    <div class="col-md-9">
                         List Template
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "page") }}
                         {{ range $paginator.Pages }}
@@ -71,7 +69,7 @@
                             {{ if .Paginator.HasNext }}
                             <li class="next"><a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}">Older &rarr;</a></li>
                             {{ else }}
-                            <li class="next disabled"><a href="#">Older &rarr;</a></li>
+                            <!--<li class="next disabled"><a href="#">Older &rarr;</a></li>-->
                             {{ end }}
                         </ul>
                     </div>
@@ -86,6 +84,7 @@
 
                         <!-- *** MENUS AND WIDGETS *** -->
 
+                        {{ partial "sidebar.html" . }}
 
                         <!-- *** MENUS AND FILTERS END *** -->
 

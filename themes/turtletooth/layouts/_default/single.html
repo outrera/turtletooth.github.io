@@ -12,8 +12,11 @@
                 {{ partial "header.html" . }}
 
         </header>
+        {{ if ne .Title "Contact" }} 
 
+        {{ partial "title.html" . }}
 
+        {{ end }}
 
         <div id="content">
             <div class="container">
@@ -22,18 +25,26 @@
 
                     <!-- *** LEFT COLUMN *** -->
 
-                    <div class="col-md-9" id="blog-post">
+                    <div class="col-md-9">
 
                         <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}By <a href="#">{{ .Params.author }}</a> | {{ end }}{{ if or (eq .Section "blog") (and (.IsNode) (eq .Data.Plural "tags")) (eq .Title "Blogs") }}{{ .Date.Format "January 2, 2006" }}{{ end }}</p>
 
                         <div id="post-content">
+                          {{ if eq .Title "Contact" }} 
+                          
+                          {{ partial "contact.html" . }}
+
+                          {{ else }}
+
                           {{ .Content }}
+
+                          {{ end }}
                         </div>
                         <!-- /#post-content -->
 
 
                     </div>
-                    <!-- /#blog-post -->
+                    <!-- /.col-md-9 -->
 
                     <!-- *** LEFT COLUMN END *** -->
 
@@ -42,7 +53,7 @@
                     <div class="col-md-3">
 
                         <!-- *** MENUS AND WIDGETS *** -->
-
+                        {{ partial "sidebar.html" . }}
 
 
                         <!-- *** MENUS AND FILTERS END *** -->

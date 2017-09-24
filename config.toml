@@ -2,13 +2,9 @@ baseurl = "http://turtletooth.com/"
 title = "TurtleTooth"
 theme = "turtletooth"
 languageCode = "en-us"
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
 
 # Define the number of posts per page
-paginate = 10
+paginate = 3
 
 [taxonomies]
     tag = "tags"
@@ -21,7 +17,7 @@ paginate = 10
     author = "Jeremy Bullock"
     email = "jcbullock@gmail.com"
     about_us = "<p>TurtleTooth is the website of Jeremy Bullock, <br>Digital Media Teacher in Colorado Springs, CO.</p>"
-    copyright = "Copyright &copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved."
+    copyright = "Copyright &copy 2015 - 2017, TurtleTooth Media.  All Rights Reserved."
     date_format = "2006-01-02"
     logo = "img/logo.png"
     address = """<p><strong>TurtleTooth</strong>
@@ -57,7 +53,7 @@ paginate = 10
 
 [[params.dropdown]]
     name = "Broadcast"
-    url = "/broadcast/broadcast"
+    url = "/broadcast"
     weight = 1
 
 [[params.dropdown]]
@@ -67,7 +63,7 @@ paginate = 10
 
 [[params.dropdown]]
     name = "8th Grade Video Game Design"
-    url = "/videogame/8th"
+    url = "/videogames/8th"
     weight = 3
 
 [[params.dropdown]]
@@ -115,44 +111,3 @@ paginate = 10
     categories = true
     tags = true
     search = true
-
-[params.carousel]
-    enable = true
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
-
-[params.features]
-    enable = true
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
-
-[params.testimonials]
-    enable = false
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
-
-[params.see_more]
-    enable = false
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
-
-[params.clients]
-    enable = false
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
-    title = "My Work"
-    subtitle = ""
-
-[params.recent_posts]
-    enable = true
-    title = "From the blog"
-    subtitle = "I am an active software developer and student of technology.  I post my thoughts and findings here from time to time."
