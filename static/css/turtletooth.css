@@ -107,6 +107,10 @@ body {
       width: 340px;
   }
 
+.youtube-link {
+    margin: 10px;
+}
+
 .opentoonzlogo {
     background:url('../img/logos/otlogo.png') no-repeat center center  /cover;
 }
@@ -129,3 +133,4 @@ body {
 .unitylogo {
     background:url('../img/logos/unity.png') no-repeat center center  /cover;
 }
+
