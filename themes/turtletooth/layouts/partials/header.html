@@ -1,37 +1,37 @@
-
 <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark">
-    <div class = "container">
-    <a class="navbar-brand" href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}img/logo.png" alt="{{ .Title }} logo" class="hidden-xs hidden-sm"></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown"
-        aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-    <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav">
-            {{ $root := . }} {{ range first 1 .Site.Params.menu }}
-            <li class="nav-item">
-                <a class="nav-link" href="{{ .url | absURL }}">{{ .name }}</a>
-            </li>
-            {{ end }}
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
-                    aria-expanded="false">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown"
+            aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+        <a class="navbar-brand" href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}img/logo.png" alt="{{ .Title }} logo" class="hidden-xs hidden-sm"></a>
+
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                {{ $root := . }} {{ range first 1 .Site.Params.menu }}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ .url | absURL }}">{{ .name }}</a>
+                </li>
+                {{ end }}
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
                     Classes
                   </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    {{ $root := . }} {{ range .Site.Params.dropdown }}
-                    <a class="dropdown-item" href="{{ .url | absURL }}">{{ .name }}</a> 
-                    {{ end }}
-                </div>
-            </li>
-            {{ $root := . }} {{ range last 3 .Site.Params.menu }}
-            <li class="nav-item">
-                <a class="nav-link" href="{{ .url | absURL }}">{{ .name }}</a>
-            </li>
-            {{ end }}
-        </ul>
-    </div>
-    <div>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        {{ $root := . }} {{ range .Site.Params.dropdown }}
+                        <a class="dropdown-item" href="{{ .url | absURL }}">{{ .name }}</a> 
+                        {{ end }}
+                    </div>
+                </li>
+                {{ $root := . }} {{ range last 3 .Site.Params.menu }}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ .url | absURL }}">{{ .name }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        <div>
 </nav>
 
 
