@@ -35,7 +35,7 @@ $(window).load(function () {
     windowWidth = $(window).width();
 
     $(this).alignElementsSameHeight();
-    pictureZoom();
+    //pictureZoom();
 });
 $(window).resize(function () {
 
@@ -44,8 +44,8 @@ $(window).resize(function () {
     if (windowWidth !== newWindowWidth) {
   setTimeout(function () {
       $(this).alignElementsSameHeight();
-      fullScreenContainer();
-      pictureZoom();
+      //fullScreenContainer();
+      //pictureZoom();
   }, 205);
   windowWidth = newWindowWidth;
     }
