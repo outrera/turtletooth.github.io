@@ -6,7 +6,7 @@
     <description>Recent content on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
+    <copyright>Copyright &amp;copy 2015 - 2017, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Sun, 16 Jul 2017 21:59:26 -0600</lastBuildDate>
     
 	<atom:link href="http://turtletooth.com/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +14,10 @@
     
     <item>
       <title>Summer Video Game Design</title>
-      <link>http://turtletooth.com/videogame/summer2017/</link>
+      <link>http://turtletooth.com/videogames/summer2017/</link>
       <pubDate>Sun, 16 Jul 2017 21:59:26 -0600</pubDate>
       
-      <guid>http://turtletooth.com/videogame/summer2017/</guid>
+      <guid>http://turtletooth.com/videogames/summer2017/</guid>
       <description>Quick Links Gamestar Mechanic
 Unity Game Engine
 Blender 3D
@@ -35,19 +35,19 @@ About the Class Students in video game design will study what it takes to make a
     
     <item>
       <title>GameMaker Studio Top Down Game</title>
-      <link>http://turtletooth.com/videogame/topdown/</link>
+      <link>http://turtletooth.com/videogames/topdown/</link>
       <pubDate>Sat, 04 Feb 2017 21:58:04 -0600</pubDate>
       
-      <guid>http://turtletooth.com/videogame/topdown/</guid>
+      <guid>http://turtletooth.com/videogames/topdown/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>GameMaker Studio Breakout Game</title>
-      <link>http://turtletooth.com/videogame/breakout/</link>
+      <link>http://turtletooth.com/videogames/breakout/</link>
       <pubDate>Thu, 26 Jan 2017 21:58:04 -0600</pubDate>
       
-      <guid>http://turtletooth.com/videogame/breakout/</guid>
+      <guid>http://turtletooth.com/videogames/breakout/</guid>
       <description>  </description>
     </item>
     
@@ -175,10 +175,10 @@ Here are the required shots:  Establishing Two-Shot Long Shot (Wide) Shot Close-
     
     <item>
       <title>8th Grade Video Game Design</title>
-      <link>http://turtletooth.com/videogame/8th/</link>
+      <link>http://turtletooth.com/videogames/8th/</link>
       <pubDate>Wed, 12 Oct 2016 21:59:26 -0600</pubDate>
       
-      <guid>http://turtletooth.com/videogame/8th/</guid>
+      <guid>http://turtletooth.com/videogames/8th/</guid>
       <description>Quick Links Class Calendar
 Class Form
 Gamestar Mechanic
@@ -329,73 +329,12 @@ Obviously there isn&amp;rsquo;t much here yet, but there will be.</description>
     </item>
     
     <item>
-      <title>8th Grade Broadcast Journalism</title>
-      <link>http://turtletooth.com/broadcast/broadcast/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turtletooth.com/broadcast/broadcast/</guid>
-      <description>Quick Links Broadcast Calendar
-Broadcast Class Form
-Current Broadcast Assignments
-Script for the Studio
-&amp;nbsp;
-&amp;nbsp;
-The Talon is the daily news broadcast of the students at Eagleview Middle School. It is a student run broadcast. Students perform all the duties from running the cameras and sound board to being anchors.
-Broadcasts are filmed during the morning and aired to the school in the afternoon.
-&amp;nbsp;
-Students are on a rotation through the news studio.</description>
-    </item>
-    
-    <item>
-      <title>Animation</title>
-      <link>http://turtletooth.com/animation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turtletooth.com/animation/</guid>
-      <description>Computer Animation at Eagleview We offer animation for grades 6 and 8 here at Eagleview. Students learn the principles of animation as they explore a variety of animation techniques and styles. Students will create projects using:
- Traditional 2D Animation 3D Animation Stop Motion  Class Pages  8th Grade Animation
- 6th Grade Animation
-  Links Animation Calendar
- In case you haven&amp;rsquo;t found the answer for your question please feel free to contact me .</description>
-    </item>
-    
-    <item>
-      <title>Broadcast Journalism at Eagleview</title>
-      <link>http://turtletooth.com/broadcast/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turtletooth.com/broadcast/</guid>
-      <description>The daily announcements can be seen at EagleviewMedia.org. &amp;nbsp;
-The Talon is the daily news broadcast of the students at Eagleview Middle School. It is a student run broadcast. Students perform all the duties from running the cameras and sound board to being anchors.
-Broadcasts are filmed during the morning and aired to the school in the afternoon.
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-&amp;nbsp;
-Students are on a rotation through the news studio.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>http://turtletooth.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://turtletooth.com/contact/</guid>
-      <description>How can I help you? Are you curious about something? Do you have some kind of problem with an assignment or software?
-Please feel free to contact me, my Jupiter based customer service center is working for you 24&amp;frasl;7.</description>
-    </item>
-    
-    <item>
-      <title>Photography</title>
-      <link>http://turtletooth.com/photography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turtletooth.com/photography/</guid>
-      <description> 6th Grade Photography at Eagleview
-More to Come Please check back for:
- Projects Tutorials Class Calendar More &amp;hellip;   In case you haven&amp;rsquo;t found the answer for your question please feel free to contact me .
- </description>
+      <description> How can I help you? </description>
     </item>
     
     <item>
@@ -421,30 +360,6 @@ Photography:
  Adobe Photoshop  Film and Video:
  Adobe Premiere Pro Adobe After Effects  2D Animation:
  OpenToonz* Stykx Stick Figure Animation Anime Studio Pro (Now called Moho) Krita  3D Animation:</description>
-    </item>
-    
-    <item>
-      <title>Video Game Design</title>
-      <link>http://turtletooth.com/videogames/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turtletooth.com/videogames/</guid>
-      <description> Video Game Design at Eagleview
-More to Come Please check back for:
- Projects Tutorials Class Calendar More &amp;hellip;   In case you haven&amp;rsquo;t found the answer for your question please feel free to contact me .
- </description>
-    </item>
-    
-    <item>
-      <title>Video Production</title>
-      <link>http://turtletooth.com/video/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turtletooth.com/video/</guid>
-      <description> Video Production at Eagleview
-More to Come Please check back for:
- Projects Tutorials Class Calendar More &amp;hellip;   In case you haven&amp;rsquo;t found the answer for your question please feel free to contact me .
- </description>
     </item>
     
   </channel>

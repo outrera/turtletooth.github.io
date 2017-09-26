@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Animations on TurtleTooth</title>
+    <title>Animation on TurtleTooth</title>
     <link>http://turtletooth.com/animation/</link>
-    <description>Recent content in Animations on TurtleTooth</description>
+    <description>Recent content in Animation on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
+    <copyright>Copyright &amp;copy 2015 - 2017, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Wed, 11 Jan 2017 13:22:32 -0700</lastBuildDate>
     
 	<atom:link href="http://turtletooth.com/animation/index.xml" rel="self" type="application/rss+xml" />

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Broadcasts on TurtleTooth</title>
+    <title>8th Grade Broadcast Journalism on TurtleTooth</title>
     <link>http://turtletooth.com/broadcast/</link>
-    <description>Recent content in Broadcasts on TurtleTooth</description>
+    <description>Recent content in 8th Grade Broadcast Journalism on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
+    <copyright>Copyright &amp;copy 2015 - 2017, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Sun, 09 Oct 2016 22:42:58 -0600</lastBuildDate>
     
 	<atom:link href="http://turtletooth.com/broadcast/index.xml" rel="self" type="application/rss+xml" />
@@ -19,24 +19,6 @@
       
       <guid>http://turtletooth.com/broadcast/current-assignments/</guid>
       <description> Gabe, Alora, Jordan - Current News Thejas, Cedric, Jade - Eagleview News Hunter, Gavin, Avery - Library Feature Brooke, Klia, John - Mini Stories Tai, Rico, Dominic - Football Nick, Cameron, Daniel - Fun Stories Scarlet, Kobe - Sports Sign-Ups  </description>
-    </item>
-    
-    <item>
-      <title>8th Grade Broadcast Journalism</title>
-      <link>http://turtletooth.com/broadcast/broadcast/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://turtletooth.com/broadcast/broadcast/</guid>
-      <description>Quick Links Broadcast Calendar
-Broadcast Class Form
-Current Broadcast Assignments
-Script for the Studio
-&amp;nbsp;
-&amp;nbsp;
-The Talon is the daily news broadcast of the students at Eagleview Middle School. It is a student run broadcast. Students perform all the duties from running the cameras and sound board to being anchors.
-Broadcasts are filmed during the morning and aired to the school in the afternoon.
-&amp;nbsp;
-Students are on a rotation through the news studio.</description>
     </item>
     
   </channel>

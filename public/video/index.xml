@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videos on TurtleTooth</title>
+    <title>Video Production on TurtleTooth</title>
     <link>http://turtletooth.com/video/</link>
-    <description>Recent content in Videos on TurtleTooth</description>
+    <description>Recent content in Video Production on TurtleTooth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy 2015 - 2016, TurtleTooth Media.  All Rights Reserved.</copyright>
+    <copyright>Copyright &amp;copy 2015 - 2017, TurtleTooth Media.  All Rights Reserved.</copyright>
     <lastBuildDate>Thu, 12 Jan 2017 21:58:04 -0600</lastBuildDate>
     
 	<atom:link href="http://turtletooth.com/video/index.xml" rel="self" type="application/rss+xml" />

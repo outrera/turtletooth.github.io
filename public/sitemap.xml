@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://turtletooth.com/videogame/summer2017/</loc>
+    <loc>http://turtletooth.com/videogames/summer2017/</loc>
     <lastmod>2017-07-16T21:59:26-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://turtletooth.com/videogame/topdown/</loc>
+    <loc>http://turtletooth.com/photography/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://turtletooth.com/videogames/topdown/</loc>
     <lastmod>2017-02-04T21:58:04-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://turtletooth.com/videogame/breakout/</loc>
+    <loc>http://turtletooth.com/videogames/breakout/</loc>
     <lastmod>2017-01-26T21:58:04-06:00</lastmod>
   </url>
   
@@ -73,7 +78,7 @@
   </url>
   
   <url>
-    <loc>http://turtletooth.com/videogame/8th/</loc>
+    <loc>http://turtletooth.com/videogames/8th/</loc>
     <lastmod>2016-10-12T21:59:26-06:00</lastmod>
   </url>
   
@@ -143,7 +148,8 @@
   </url>
   
   <url>
-    <loc>http://turtletooth.com/broadcast/broadcast/</loc>
+    <loc>http://turtletooth.com/broadcast/</loc>
+    <lastmod>2016-10-09T22:42:58-06:00</lastmod>
   </url>
   
   <url>
@@ -154,12 +160,7 @@
   
   <url>
     <loc>http://turtletooth.com/animation/</loc>
-  </url>
-  
-  <url>
-    <loc>http://turtletooth.com/animation/</loc>
     <lastmod>2017-01-11T13:22:32-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -175,16 +176,6 @@
   
   <url>
     <loc>http://turtletooth.com/categories/broadcast/</loc>
-    <lastmod>2016-10-09T22:42:58-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://turtletooth.com/broadcast/</loc>
-  </url>
-  
-  <url>
-    <loc>http://turtletooth.com/broadcast/</loc>
     <lastmod>2016-10-09T22:42:58-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -213,13 +204,7 @@
   
   <url>
     <loc>http://turtletooth.com/tags/design/</loc>
-    <lastmod>2016-09-02T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://turtletooth.com/photography/</loc>
-    <lastmod>2016-10-12T22:02:16-06:00</lastmod>
+    <lastmod>2017-01-07T21:49:02-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -227,10 +212,6 @@
     <loc>http://turtletooth.com/categories/photography/</loc>
     <lastmod>2016-10-12T22:02:16-06:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://turtletooth.com/photography/</loc>
   </url>
   
   <url>
@@ -243,7 +224,7 @@
   
   <url>
     <loc>http://turtletooth.com/tags/</loc>
-    <lastmod>2016-09-02T13:50:46+02:00</lastmod>
+    <lastmod>2017-01-07T21:49:02-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -267,22 +248,12 @@
   
   <url>
     <loc>http://turtletooth.com/videogames/</loc>
-  </url>
-  
-  <url>
-    <loc>http://turtletooth.com/video/</loc>
-  </url>
-  
-  <url>
-    <loc>http://turtletooth.com/videogame/</loc>
     <lastmod>2017-07-16T21:59:26-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://turtletooth.com/video/</loc>
     <lastmod>2017-01-12T21:58:04-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
