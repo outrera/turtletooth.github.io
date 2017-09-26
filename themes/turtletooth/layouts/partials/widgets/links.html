@@ -1,13 +1,13 @@
 {{ if .Site.Params.widgets.categories }}
 {{ if isset .Site.Taxonomies "categories" }}
 {{ if not (eq (len .Site.Taxonomies.categories) 0) }}
-<div class="panel panel-default sidebar-menu">
+<div class="card sidebar-menu mb-3">
 
-    <div class="panel-heading">
-        <h3 class="panel-title">Links</h3>
+    <div class="card-header">
+        <h3 class="card-title">Links</h3>
     </div>
 
-    <div class="panel-body">
+    <div class="card-body">
         <ul class="nav nav-pills nav-stacked">
                       
             <!-- Broadcast Links -->

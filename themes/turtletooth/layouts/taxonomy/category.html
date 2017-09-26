@@ -21,7 +21,6 @@
                     <!-- *** LEFT COLUMN *** -->
 
                     <div class="col-md-9">
-                        Category Template
                         {{ range .Paginator.Pages }}
                         <section class="post">
                             <div class="row">
@@ -29,9 +28,9 @@
                                   <div class="image">
                                       <a href="{{ .Permalink }}">
                                           {{ if .Params.banner }}
-                                          <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
+                                          <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-fluid" alt="">
                                           {{ else }}
-                                          <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
+                                          <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-fluid" alt="">
                                           {{ end }}
                                       </a>
                                   </div>
@@ -60,19 +59,16 @@
                         </section>
                         {{ end }}
 
-                        <ul class="pager">
-                            {{ if .Paginator.HasPrev }}
-                            <li class="previous"><a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">&larr; Newer</a></li>
-                            {{ else }}
-                            <li class="previous disabled"><a href="#">&larr; Newer</a></li>
-                            {{ end }}
-
-                            {{ if .Paginator.HasNext }}
-                            <li class="next"><a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}">Older &rarr;</a></li>
-                            {{ else }}
-                            <li class="next disabled"><a href="#">Older &rarr;</a></li>
-                            {{ end }}
-                        </ul>
+                        {{ if .Paginator.HasPrev }}
+                        <div class="previous float-left">
+                            <a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}" class="badge badge-pill badge-primary">&larr; Newer</a>
+                        </div>
+                        {{ end }} 
+                        {{ if .Paginator.HasNext }}
+                        <div class="next float-right">
+                            <a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}" class="badge badge-pill badge-primary">Older &rarr;</a>
+                        </div>
+                        {{ end }}
                     </div>
                     <!-- /.col-md-9 -->
 

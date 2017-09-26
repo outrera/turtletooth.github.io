@@ -8,33 +8,14 @@
   <div id="all">
 
     <header>
-
       {{ partial "header.html" . }}
-      
     </header>
-    <div id="content">
-      <div class="container-fluid colored">
-        <div class="container">
 
-          <div class="row">
-
-            <div class="col-md-12">
-              {{ partial "front.html" . }}
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-
+    {{ partial "front.html" . }}
 
     {{ partial "footer.html" . }}
 
   </div>
-  <!-- /#all -->
-
-
 
 </body>
 {{ partial "scripts.html" . }}

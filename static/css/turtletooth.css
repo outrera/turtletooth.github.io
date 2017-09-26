@@ -2,6 +2,10 @@ body {
     padding-top: 65px; 
 }
 
+a {
+    color: #004358;
+}
+
 .blog-entry {
     min-height: 250px;
 }
@@ -17,17 +21,14 @@ body {
 }
 
 .social a {
-    color: darkgreen;
+    color: #1f8a70;
 }
-
-@import url(http://fonts.googleapis.com/css?family=Lato:400,900);  /* <-- Just for the demo, Yes I like pretty fonts... */
 
 .square {
     float:left;
     position: relative;
     width: 100px;
     height: 100px;
-    
     margin: 10px;
     background-color:#1E1E1E;
     overflow: hidden;
@@ -80,16 +81,15 @@ body {
 	-o-transition: all 0.5s ease;
 	transition: all 0.5s ease;
 }
-.bg-div .bg-overlay {
-    
+.bg-div .bg-overlay {   
     background: rgba(0,0,0,0);
     background-size: cover;
 }
+
 .bg-div:hover .bg-overlay {
     background: rgba(0,0,0,0.5);
     background-size: cover;
 }
-
 
 .bg-div {
     background-size: cover;
@@ -99,16 +99,33 @@ body {
       background-color: #444;
       color: #ddd;
   }
+.front-videos {
+    background: #004358;
+    background: linear-gradient(to right, #004358 , #1f8a70); /* Standard syntax */
+    color: #ddd;
+}
+.front-tutorials {
+    background: #bedb39;
+    background: linear-gradient(to right, #bedb39 , #fd7400); /* Standard syntax */
+    color: #222;
+}
 
-  .title-info {
+.title-info {
       width: 100%;
-  }
-  .big-square-header {
+}
+
+.big-square-header {
       width: 340px;
-  }
+}
 
 .youtube-link {
     margin: 10px;
+}
+
+.youtube-link:hover {
+    margin: 10px;
+    text-decoration: underline;
+    color: #bedb39;
 }
 
 .opentoonzlogo {

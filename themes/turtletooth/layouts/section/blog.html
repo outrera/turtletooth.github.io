@@ -1,54 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  {{ partial "head.html" . }}
+{{ partial "head.html" . }}
 
-  <body>
+<body>
 
     <div id="all">
 
         <header>
 
-          {{ partial "header.html" . }}
+            {{ partial "header.html" . }}
 
         </header>
         {{ partial "title.html" . }}
 
         <div id="content">
-            
+
             <div class="container">
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
 
                     <div class="col-md-9">
-                            Blog Template
-                        {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
+                        {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }} 
                         {{ range $paginator.Pages }}
                         <section class="post blog-entry">
                             <div class="row">
                                 <div class="col-md-4">
-                                  <div class="image">
-                                      <a href="{{ .Permalink }}">
+                                    <div>
+                                        <a href="{{ .Permalink }}">
                                           {{ if .Params.banner }}
-                                          <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
+                                          <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-fluid" alt="">
                                           {{ else }}
-                                          <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
+                                          <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-fluid" alt="">
                                           {{ end }}
                                       </a>
-                                  </div>
+                                    </div>
                                 </div>
                                 <div class="col-md-8">
                                     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="clearfix">
                                         <p class="author-category">
-                                          {{ if isset .Params "author" }}
-                                          By <a href="#">{{ .Params.author }}</a>
-                                          {{ end }}
-                                          {{ if isset .Params "categories" }}
-                                          {{ if gt (len .Params.categories) 0 }}
-                                          in <a href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">{{ index .Params.categories 0 }}</a>
-                                          {{ end }}
-                                          {{ end }}
+                                            {{ if isset .Params "author" }} By <a href="#">{{ .Params.author }}</a> {{ end }} 
+                                            {{ if isset .Params "categories" }} {{ if gt (len .Params.categories) 0 }}
+                                            in <a href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">{{ index .Params.categories 0 }}</a> 
+                                            {{ end }} {{ end }}
 
                                         </p>
                                         <p class="date-comments">
@@ -63,19 +58,18 @@
                         </section>
                         {{ end }}
 
-                        <ul class="pager">
+                        
                             {{ if .Paginator.HasPrev }}
-                            <li class="previous"><a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">&larr; Newer</a></li>
-                            {{ else }}
-                            <li class="previous disabled"><a href="#">&larr; Newer</a></li>
-                            {{ end }}
-
+                            <div class="previous float-left">
+                                <a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}" class="badge badge-pill badge-primary">&larr; Newer</a>
+                            </div>
+                            {{ end }} 
                             {{ if .Paginator.HasNext }}
-                            <li class="next"><a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}">Older &rarr;</a></li>
-                            {{ else }}
-                            <li class="next disabled"><a href="#">Older &rarr;</a></li>
+                            <div class="next float-right">
+                                <a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}" class="badge badge-pill badge-primary">Older &rarr;</a>
+                            </div>
                             {{ end }}
-                        </ul>
+                        
                     </div>
                     <!-- /.col-md-9 -->
 
@@ -111,5 +105,6 @@
 
     {{ partial "scripts.html" . }}
 
-  </body>
+</body>
+
 </html>

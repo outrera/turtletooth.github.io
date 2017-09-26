@@ -1,12 +1,12 @@
 {{ if .Site.Params.widgets.tags }}
 {{ if isset .Site.Taxonomies "tags" }}
 {{ if not (eq (len .Site.Taxonomies.tags) 0) }}
-<div class="panel panel-default sidebar-menu">
-    <div class="panel-heading">
-        <h3 class="panel-title">Tags</h3>
+<div class="card sidebar-menu mb-3">
+    <div class="card-header">
+        <h3 class="card-title">Tags</h3>
     </div>
 
-    <div class="panel-body">
+    <div class="card-body">
         <ul class="tag-cloud">
             {{ range $name, $items := .Site.Taxonomies.tags }}
             <li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> {{ $name }}</a>

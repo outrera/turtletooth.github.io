@@ -1,7 +1,21 @@
-<div class="row">
-    <div class="col-sm-12">
-        {{ partial "latestvideos.html" . }}
-        <br><br>
-        {{ partial "tutorials.html" . }}
+<div id="content">
+    <div class="container-fluid colored front-videos">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    {{ partial "latestvideos.html" . }}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid colored front-tutorials">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    
+                    {{ partial "tutorials.html" . }}
+                </div>
+            </div>
+        </div>
     </div>
 </div>
