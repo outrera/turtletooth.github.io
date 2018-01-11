@@ -29,7 +29,7 @@
                         <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}By <a href="#">{{ .Params.author }}</a> | {{ end }}{{ if or (eq .Section "blog") (and (.IsNode) (eq .Data.Plural "tags")) (eq .Title "Blogs") }}{{ .Date.Format "January 2, 2006" }}{{ end }}</p>
 
                         <div id="post-content">
-                          {{ if eq .Title "Contact" }} 
+                          {{ if eq .Title "How Can I Help You?" }} 
                           
                           {{ partial "contact.html" . }}
 
