@@ -1,4 +1,4 @@
-baseurl = "http://turtletooth.com/"
+baseurl = "https://turtletooth.com/"
 title = "TurtleTooth"
 theme = "turtletooth"
 languageCode = "en-us"
