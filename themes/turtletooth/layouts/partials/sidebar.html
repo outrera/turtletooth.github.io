@@ -2,12 +2,6 @@
 
 {{ if and (or (ne .Section "blog") (and (.IsNode) (eq .Data.Plural "categories")) (eq .Title "Pages")) (ne .Title "Blogs") (ne .Data.Plural "tags") }}
 
-{{ partial "widgets/links.html" . }}
-
-{{ end }}
-
-{{ if and (or (ne .Section "blog") (and (.IsNode) (eq .Data.Plural "categories")) (eq .Title "Pages")) (ne .Title "Blogs") (ne .Data.Plural "tags") }}
-
 {{ partial "widgets/categories.html" . }}
 
 {{ end }}
