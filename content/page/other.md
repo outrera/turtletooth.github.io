@@ -7,3 +7,4 @@ draft = "true"
 +++
 
 This is the first new page.
+Tested here.
