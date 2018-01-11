@@ -16,8 +16,8 @@ paginate = 3
     viewMorePostLink     = "/blog/"
     author = "Jeremy Bullock"
     email = "jcbullock@gmail.com"
-    about_us = "<p>TurtleTooth is the website of Jeremy Bullock, <br>Digital Media Teacher in Colorado Springs, CO.</p>"
-    copyright = "Copyright &copy 2015 - 2017, TurtleTooth Media.  All Rights Reserved."
+    about_us = "<p>TurtleTooth is the website of Jeremy Bullock</p>"
+    copyright = "Copyright &copy 2015 - 2018, TurtleTooth Media.  All Rights Reserved."
     date_format = "2006-01-02"
     logo = "img/logo.png"
     address = """<p><strong>TurtleTooth</strong>
@@ -37,49 +37,24 @@ paginate = 3
     weight = 1
 
 [[params.menu]]
-    name = "Quick Info"
-    url  = "/quick/"
-    weight = 2
-
-[[params.menu]]
     name = "Blog"
     url  = "/blog/"
-    weight = 3
+    weight = 2
 
 [[params.menu]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
-
-[[params.dropdown]]
-    name = "Broadcast"
-    url = "/broadcast"
-    weight = 1
-
-[[params.dropdown]]
-    name = "8th Grade Animation"
-    url = "/animation/8th"
-    weight = 2
-
-[[params.dropdown]]
-    name = "8th Grade Video Game Design"
-    url = "/videogames/8th"
     weight = 3
 
 [[params.dropdown]]
-    name = "7th Grade Video"
-    url = "/video/7th"
-    weight = 4
+    name = "OpenToonz"
+    url = "/opentoonz"
+    weight = 1
 
 [[params.dropdown]]
-    name = "6th Grade Photography"
-    url = "/photography/6th"
-    weight = 5
-
-[[params.dropdown]]
-    name = "6th Grade Animation"
-    url = "/animation/6th"
-    weight = 6
+    name = "Godot"
+    url = "/godot"
+    weight = 2
 
 [[params.links]]
     name = "Google Classroom"

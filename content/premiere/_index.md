@@ -1,8 +1,6 @@
 +++
-title = "Video Game Design"
+title = "Video Production"
 +++
-
-Video Game Design
 
 ## More to Come
 

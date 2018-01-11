@@ -16,7 +16,7 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
                         aria-expanded="false">
-                    Classes
+                    Tutorials
                   </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         {{ $root := . }} {{ range .Site.Params.dropdown }}
@@ -24,7 +24,7 @@
                         {{ end }}
                     </div>
                 </li>
-                {{ $root := . }} {{ range last 3 .Site.Params.menu }}
+                {{ $root := . }} {{ range last 2 .Site.Params.menu }}
                 <li class="nav-item">
                     <a class="nav-link" href="{{ .url | absURL }}">{{ .name }}</a>
                 </li>
