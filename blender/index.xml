@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blenders on TurtleTooth</title>
+    <link>http://turtletooth.com/blender/</link>
+    <description>Recent content in Blenders on TurtleTooth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy 2015 - 2018, TurtleTooth Media.  All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 17 Oct 2016 16:07:52 -0600</lastBuildDate>
+    
+	<atom:link href="http://turtletooth.com/blender/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blender Character</title>
+      <link>http://turtletooth.com/blender/blendercharacter/</link>
+      <pubDate>Mon, 17 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/blender/blendercharacter/</guid>
+      <description>Part 1
+  Part 2
+   Part 3
+   Part 4
+   Part 5
+   </description>
+    </item>
+    
+    <item>
+      <title>Blender Basics</title>
+      <link>http://turtletooth.com/blender/blenderbasics/</link>
+      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/blender/blenderbasics/</guid>
+      <description>Part 1
+  Part 2
+   Part 3
+   Part 4
+   </description>
+    </item>
+    
+    <item>
+      <title>Blender Exploding Text</title>
+      <link>http://turtletooth.com/blender/blendertext/</link>
+      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/blender/blendertext/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation on TurtleTooth</title>
+    <link>http://turtletooth.com/categories/animation/</link>
+    <description>Recent content in Animation on TurtleTooth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy 2015 - 2018, TurtleTooth Media.  All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 11 Jan 2017 13:22:32 -0700</lastBuildDate>
+    
+	<atom:link href="http://turtletooth.com/categories/animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stykz Tutorials</title>
+      <link>http://turtletooth.com/stykz/stykz/</link>
+      <pubDate>Wed, 11 Jan 2017 13:22:32 -0700</pubDate>
+      
+      <guid>http://turtletooth.com/stykz/stykz/</guid>
+      <description>&amp;nbsp;
+Download Stykz at Home</description>
+    </item>
+    
+    <item>
+      <title>OpenToonz - Squash and Stretch</title>
+      <link>http://turtletooth.com/opentoonz/opentoonz_squash/</link>
+      <pubDate>Wed, 02 Nov 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/opentoonz/opentoonz_squash/</guid>
+      <description>Video Tutorial
+ </description>
+    </item>
+    
+    <item>
+      <title>OpenToonz Basics</title>
+      <link>http://turtletooth.com/opentoonz/opentoonz_basics/</link>
+      <pubDate>Wed, 02 Nov 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/opentoonz/opentoonz_basics/</guid>
+      <description>Part 1
+ Part 2
+ Exporting</description>
+    </item>
+    
+    <item>
+      <title>Blender Character</title>
+      <link>http://turtletooth.com/blender/blendercharacter/</link>
+      <pubDate>Mon, 17 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/blender/blendercharacter/</guid>
+      <description>Part 1
+  Part 2
+   Part 3
+   Part 4
+   Part 5
+   </description>
+    </item>
+    
+    <item>
+      <title>Anticipation</title>
+      <link>http://turtletooth.com/opentoonz/anticipation/</link>
+      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/opentoonz/anticipation/</guid>
+      <description>Part 1
+  Part 2
+   </description>
+    </item>
+    
+    <item>
+      <title>Blender Basics</title>
+      <link>http://turtletooth.com/blender/blenderbasics/</link>
+      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/blender/blenderbasics/</guid>
+      <description>Part 1
+  Part 2
+   Part 3
+   Part 4
+   </description>
+    </item>
+    
+    <item>
+      <title>Blender Exploding Text</title>
+      <link>http://turtletooth.com/blender/blendertext/</link>
+      <pubDate>Wed, 12 Oct 2016 16:07:52 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/blender/blendertext/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>

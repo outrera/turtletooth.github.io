@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stykz on TurtleTooth</title>
+    <link>http://turtletooth.com/stykz/</link>
+    <description>Recent content in Stykz on TurtleTooth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy 2015 - 2018, TurtleTooth Media.  All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 11 Jan 2017 13:22:32 -0700</lastBuildDate>
+    
+	<atom:link href="http://turtletooth.com/stykz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stykz Tutorials</title>
+      <link>http://turtletooth.com/stykz/stykz/</link>
+      <pubDate>Wed, 11 Jan 2017 13:22:32 -0700</pubDate>
+      
+      <guid>http://turtletooth.com/stykz/stykz/</guid>
+      <description>&amp;nbsp;
+Download Stykz at Home</description>
+    </item>
+    
+  </channel>
+</rss>

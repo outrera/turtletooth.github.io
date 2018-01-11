@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Production on TurtleTooth</title>
+    <link>http://turtletooth.com/video/</link>
+    <description>Recent content in Video Production on TurtleTooth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy 2015 - 2018, TurtleTooth Media.  All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 12 Oct 2016 22:01:10 -0600</lastBuildDate>
+    
+	<atom:link href="http://turtletooth.com/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>List of Camera Shots</title>
+      <link>http://turtletooth.com/video/camerashots/</link>
+      <pubDate>Wed, 12 Oct 2016 22:01:10 -0600</pubDate>
+      
+      <guid>http://turtletooth.com/video/camerashots/</guid>
+      <description>Establishing Two-Shot Long Shot (Wide) Shot Close-Up Extreme Close-Up Over the Shoulder Pan Tilt Medium Shot Follow Shot High Angle Low Angle Reaction Shot Point of View Head On Shot  
+Click here for the list of shots</description>
+    </item>
+    
+  </channel>
+</rss>
