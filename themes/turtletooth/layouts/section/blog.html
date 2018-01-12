@@ -61,12 +61,12 @@
                         
                             {{ if .Paginator.HasPrev }}
                             <div class="previous float-left">
-                                <a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}" class="badge badge-pill badge-primary">&larr; Newer</a>
+                                <a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}" class="badge badge-pill badge-secondary">&larr; Newer</a>
                             </div>
                             {{ end }} 
                             {{ if .Paginator.HasNext }}
                             <div class="next float-right">
-                                <a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}" class="badge badge-pill badge-primary">Older &rarr;</a>
+                                <a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}" class="badge badge-pill badge-secondary">Older &rarr;</a>
                             </div>
                             {{ end }}
                         
