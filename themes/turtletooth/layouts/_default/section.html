@@ -18,7 +18,7 @@
                     <div class="col-md-9" id="blog-listing-medium">
                         {{ .Content }}
                         
-                        {{ range .Paginator.Pages }}
+                        {{ range (.Paginate  ( .Data.Pages.ByWeight )).Pages }}
                         <section class="post">
                             <div class="row">
                                 

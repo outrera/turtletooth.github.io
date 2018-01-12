@@ -3,6 +3,7 @@ date = "2016-10-12T16:07:52-06:00"
 draft = false
 title = "Blender Basics"
 categories = ["animation", "blender"]
+weight = 999
 +++
 
 Part 1

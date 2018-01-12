@@ -3,6 +3,7 @@ date = "2016-10-17T16:07:52-06:00"
 draft = false
 title = "Blender Character"
 categories = ["animation"]
+weight = 1000
 +++
 
 Part 1
