@@ -56,6 +56,11 @@ paginate = 3
     url = "/godot"
     weight = 2
 
+[[params.dropdown]]
+    name = "Blender"
+    url = "/blender"
+    weight = 3
+
 [[params.links]]
     name = "Google Classroom"
     url = "http://classroom.google.com"
