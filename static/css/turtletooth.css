@@ -120,6 +120,8 @@ a {
 
 .youtube-link {
     margin: 10px;
+    font-size: 18px;
+    padding-bottom: 10px;
 }
 
 .youtube-link:hover {
@@ -150,4 +152,18 @@ a {
 .unitylogo {
     background:url('../img/logos/unity.png') no-repeat center center  /cover;
 }
+.godotlogo {
+    background:url('../img/logos/godot.png') no-repeat center center  /cover;
+}
 
+.highlight {
+    background-color: #272822;
+    padding: 10px;
+    border-radius: 10px;
+    background-clip: padding-box;
+}
+
+.nav-item {
+    font-size: 20px;
+    padding-left: 20px;
+}

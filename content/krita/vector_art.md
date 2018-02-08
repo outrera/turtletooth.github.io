@@ -1,10 +1,10 @@
 +++
-date = "2018-01-11T16:07:52-06:00"
+date = "2018-02-01T16:07:52-06:00"
 draft = false
-title = "Catch the UFO Part 1"
-categories = ["video game design", "godot"]
+title = "Vector Art in Krita"
+categories = ["krita"]
 weight = 1000
-youtube = "M3lkGGqnHPQ"
+youtube = "KOFzmrJAkQ0"
 +++
 
 Code for Player.gd

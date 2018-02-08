@@ -29,6 +29,16 @@
                         <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}By <a href="#">{{ .Params.author }}</a> | {{ end }}{{ if or (eq .Section "blog") (and (.IsNode) (eq .Data.Plural "tags")) (eq .Title "Blogs") }}{{ .Date.Format "January 2, 2006" }}{{ end }}</p>
 
                         <div id="post-content">
+
+                          {{ if .Params.youtube }}
+
+                          <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+                                <iframe src="//www.youtube.com/embed/{{.Params.youtube}}"
+                                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+                          </div>
+
+                          {{ end }}
+
                           {{ if eq .Title "How Can I Help You?" }} 
                           
                           {{ partial "contact.html" . }}
